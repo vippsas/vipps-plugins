@@ -1,13 +1,11 @@
 # Vipps Plugins
 
-Document version: 0.1.
-
 Vipps provides several open source plugins for various web solutions. This page gives an overview, and the sections below have more details.
 We update this table as soon as statuses or plans change.
 
 ## Table of contents
 
-- [Vipps Developers](#vipps-developers)
+- [Vipps Plugins](#vipps-plugins)
   - [Table of contents](#table-of-contents)
   - [API documentation](#api-documentation)
   - [Plugins](#plugins)
@@ -135,8 +133,6 @@ BigCommerce | To be decided. | - | -|-
 ## Questions?
 
 We're always happy to help with code or other questions you might have!
-Please create an [issue](https://github.com/vippsas/vipps-developers/issues),
-a [pull request](https://github.com/vippsas/vipps-developers/pulls),
-or [contact us](https://github.com/vippsas/vipps-developers/blob/master/contact.md).
+Please create an GitHub issue or pull request in the related repos or [contact Vipps Integration](https://github.com/vippsas/vipps-developers/blob/master/contact.md) for general Vipps API related questions.
 
 Sign up for our [Technical newsletter for developers](https://github.com/vippsas/vipps-developers/tree/master/newsletters).
