@@ -49,6 +49,7 @@ BigCommerce | To be decided. | - | -|-
 **eCommerce**: To be decided.  
 **Recurring**: N/A  
 **Login**: [vipps-craft-login](https://github.com/vippsas/vipps-craft-login)  
+
 More information about [Craft on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/craft/)
 
 ### Drupal  
@@ -57,6 +58,7 @@ More information about [Craft on vipps.no](https://www.vipps.no/produkter-og-tje
 **eCommerce**: [vipps-drupal](https://github.com/vippsas/vipps-drupal)  
 **Recurring**: [vipps-recurring-drupal](https://github.com/vippsas/vipps-recurring-drupal)  
 **Login**: [vipps-login-drupal](https://github.com/vippsas/vipps-login-drupal)  
+
 More information about [Drupal on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/drupal/)
 
 ### Episerver  
@@ -65,6 +67,7 @@ More information about [Drupal on vipps.no](https://www.vipps.no/produkter-og-tj
 **eCommerce**: [vipps-episerver](https://github.com/vippsas/vipps-episerver)  
 **Recurring**: N/A  
 **Login**: [vipps-login-dotnet](https://github.com/vippsas/vipps-login-dotnet)  
+
 More information about [Episerver on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/vipps-for-episerver/)
 
  
@@ -75,6 +78,7 @@ More information about [Episerver on vipps.no](https://www.vipps.no/produkter-og
 **eCommerce**: [vipps-magento](https://github.com/vippsas/vipps-magento) **Support:** vipps@vaimo.no or [submit an issue on GitHub](https://github.com/vippsas/vipps-magento)  
 **Recurring**: N/A  
 **Login**: [vipps-login-magento](https://github.com/vippsas/vipps-login-magento) **Support:** vipps@vaimo.no or [submit an issue on GitHub](https://github.com/vippsas/vipps-login-magento)
+
 More information about [Magento 2 on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/magento/)
 
 ### Magento 1
@@ -82,6 +86,7 @@ More information about [Magento 2 on vipps.no](https://www.vipps.no/produkter-og
 **eCommerce**: [vipps-magento-v1](https://github.com/vippsas/vipps-magento-v1) **Support:** vipps@vaimo.no or [submit an issue on GitHub](https://github.com/vippsas/vipps-magento-v1)  
 **Recurring**: N/A  
 **Login**: N/A  
+
 More information about [Magento 1 on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/magento/)
 
 ### Shopify  
@@ -90,6 +95,7 @@ More information about [Magento 1 on vipps.no](https://www.vipps.no/produkter-og
 **eCommerce**: [vipps-shopify](https://github.com/vippsas/vipps-shopify) **Support:** [submit an issue on GitHub](https://github.com/vippsas/vipps-shopify)  
 **Recurring**:  N/A  
 **Login**:  N/A
+
 More information about [Shopify on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/shopify/)
 
 
@@ -99,6 +105,7 @@ More information about [Shopify on vipps.no](https://www.vipps.no/produkter-og-t
 **eCommerce**: [vipps-woocommerce](https://github.com/vippsas/vipps-woocommerce) **Support:** [wordpress.org](https://wordpress.org/support/plugin/woo-vipps/)  
 **Recurring**: [vipps-recurring-woocommerce](https://github.com/vippsas/vipps-recurring-woocommerce) **Support:** [wordpress.org](https://wordpress.org/support/plugin/vipps-recurring-payments-gateway-for-woocommerce/)  
 **Login**: [See WordPress.](#wordpress)  
+
 More information about [WooCommerce on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/woocommerce/)
 
 ### WordPress
@@ -107,6 +114,7 @@ More information about [WooCommerce on vipps.no](https://www.vipps.no/produkter-
 **eCommerce**: [See WooCommerce.](#woocommerce)  
 **Recurring**: [See WooCommerce.](#woocommerce)  
 **Login**: [vipps-login-wordpress](https://github.com/vippsas/vipps-login-wordpress) **Support:** [wordpress.org](https://wordpress.org/support/plugin/login-with-vipps/) 
+
 More information about [Wordpress on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/woocommerce/)
 
 
