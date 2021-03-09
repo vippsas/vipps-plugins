@@ -68,7 +68,7 @@ More information about [Drupal on vipps.no](https://www.vipps.no/produkter-og-tj
 **Recurring**: N/A  
 **Login**: [vipps-login-dotnet](https://github.com/vippsas/vipps-login-dotnet)  
 
-More information about [Episerver on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/vipps-for-episerver/)
+More information about [Episerver on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/episerver/)
 
  
 
