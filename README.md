@@ -46,6 +46,7 @@ BigCommerce | To be decided. | - | -|-
 ### Craft Commerce
 
 ![Craft text][craft-cms-logo]  
+
 **eCommerce**: To be decided.  
 **Recurring**: N/A  
 **Login**: [vipps-craft-login](https://github.com/vippsas/vipps-craft-login)  
@@ -55,6 +56,7 @@ More information about [Craft on vipps.no](https://www.vipps.no/produkter-og-tje
 ### Drupal  
 
 ![Drupal logo][drupal-logo]  
+
 **eCommerce**: [vipps-drupal](https://github.com/vippsas/vipps-drupal)  
 **Recurring**: [vipps-recurring-drupal](https://github.com/vippsas/vipps-recurring-drupal)  
 **Login**: [vipps-login-drupal](https://github.com/vippsas/vipps-login-drupal)  
@@ -64,6 +66,7 @@ More information about [Drupal on vipps.no](https://www.vipps.no/produkter-og-tj
 ### Episerver  
 
 ![Episerver logo][episerver-logo]  
+
 **eCommerce**: [vipps-episerver](https://github.com/vippsas/vipps-episerver)  
 **Recurring**: N/A  
 **Login**: [vipps-login-dotnet](https://github.com/vippsas/vipps-login-dotnet)  
@@ -75,15 +78,19 @@ More information about [Episerver on vipps.no](https://www.vipps.no/produkter-og
 ### Magento 2
 
 ![Magento logo][magento-logo] 
-**eCommerce**: [vipps-magento](https://github.com/vippsas/vipps-magento) **Support:** vipps@vaimo.no or [submit an issue on GitHub](https://github.com/vippsas/vipps-magento)  
+
+**eCommerce**: [vipps-magento](https://github.com/vippsas/vipps-magento) **Support:** [submit an issue on GitHub](https://github.com/vippsas/vipps-magento) or send a mail to integration@vipps.no 
+
+**Login**: [vipps-login-magento](https://github.com/vippsas/vipps-login-magento) **Support:** [submit an issue on GitHub](https://github.com/vippsas/vipps-login-magento) or mail to integration@vipps.no 
+
 **Recurring**: N/A  
-**Login**: [vipps-login-magento](https://github.com/vippsas/vipps-login-magento) **Support:** vipps@vaimo.no or [submit an issue on GitHub](https://github.com/vippsas/vipps-login-magento)
 
 More information about [Magento 2 on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/magento/)
 
 ### Magento 1
 
-**eCommerce**: [vipps-magento-v1](https://github.com/vippsas/vipps-magento-v1) **Support:** vipps@vaimo.no or [submit an issue on GitHub](https://github.com/vippsas/vipps-magento-v1)  
+**eCommerce**: [vipps-magento-v1](https://github.com/vippsas/vipps-magento-v1) **Support:** [submit an issue on GitHub](https://github.com/vippsas/vipps-magento-v1) or send a mail to integration@vipps.no 
+
 **Recurring**: N/A  
 **Login**: N/A  
 
@@ -92,6 +99,7 @@ More information about [Magento 1 on vipps.no](https://www.vipps.no/produkter-og
 ### Shopify  
 
 ![Shopify logo][shopify-logo]  
+
 **eCommerce**: [vipps-shopify](https://github.com/vippsas/vipps-shopify) **Support:** [submit an issue on GitHub](https://github.com/vippsas/vipps-shopify)  
 **Recurring**:  N/A  
 **Login**:  N/A
@@ -102,6 +110,7 @@ More information about [Shopify on vipps.no](https://www.vipps.no/produkter-og-t
 ### WooCommerce
 
 ![WooCommerce logo][woocommerce-logo]  
+
 **eCommerce**: [vipps-woocommerce](https://github.com/vippsas/vipps-woocommerce) **Support:** [wordpress.org](https://wordpress.org/support/plugin/woo-vipps/)  
 **Recurring**: [vipps-recurring-woocommerce](https://github.com/vippsas/vipps-recurring-woocommerce) **Support:** [wordpress.org](https://wordpress.org/support/plugin/vipps-recurring-payments-gateway-for-woocommerce/)  
 **Login**: [See WordPress.](#wordpress)  
@@ -111,6 +120,7 @@ More information about [WooCommerce on vipps.no](https://www.vipps.no/produkter-
 ### WordPress
 
 ![Wordpress logo][wordpress-logo]  
+
 **eCommerce**: [See WooCommerce.](#woocommerce)  
 **Recurring**: [See WooCommerce.](#woocommerce)  
 **Login**: [vipps-login-wordpress](https://github.com/vippsas/vipps-login-wordpress) **Support:** [wordpress.org](https://wordpress.org/support/plugin/login-with-vipps/) 
@@ -120,6 +130,7 @@ More information about [Wordpress on vipps.no](https://www.vipps.no/produkter-og
 
 ### BigCommerce  
 ![BigCommerce logo][bigcommerce-logo]  
+
 **eCommerce**: To be decided.  
 **Recurring**: N/A  
 **Login**: N/A  
