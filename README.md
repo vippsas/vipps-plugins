@@ -100,7 +100,7 @@ More information about [Magento 1 on vipps.no](https://www.vipps.no/produkter-og
 
 ![Shopify logo][shopify-logo]  
 
-**eCommerce**: [vipps-shopify](https://github.com/vippsas/vipps-shopify) **Support:** [submit an issue on GitHub](https://github.com/vippsas/vipps-shopify)  
+**eCommerce**: [vipps-shopify](https://github.com/vippsas/vipps-shopify) **Support:** [See the support system](https://vipps-shopify.atlassian.net/servicedesk/customer/portal/3)  
 **Recurring**:  N/A  
 **Login**:  N/A
 
