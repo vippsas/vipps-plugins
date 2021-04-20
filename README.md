@@ -24,7 +24,7 @@ We update this table as soon as statuses or plans change.
 
 ## API documentation
 
-See: [Getting started](vipps-getting-started.md).
+See: [Getting started](https://github.com/vippsas/vipps-developers/blob/master/vipps-getting-started.md#getting-started).
 
 ## Plugins
 
