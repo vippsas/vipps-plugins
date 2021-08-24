@@ -40,7 +40,7 @@ Episerver | [vipps-episerver](https://github.com/vippsas/vipps-episerver) | - | 
 Drupal | [vipps-drupal](https://github.com/vippsas/vipps-drupal) | [vipps-recurring-drupal](https://github.com/vippsas/vipps-recurring-drupal) | [vipps-login-drupal](https://github.com/vippsas/vipps-login-drupal) |[Details](#drupal)
 Shopify | [vipps-shopify](https://github.com/vippsas/vipps-shopify) | - | - | [Details](#shopify)
 Craft Commerce | To be decided. | - | [vipps-craft-login](https://github.com/vippsas/vipps-craft-login)| [Craft-related issues](https://craftcms.com/community) / [Plugin-related issues](https://github.com/elleracompany/vipps-craft-login/issues) / [Vipps-related issues](https://github.com/vippsas/vipps-developers/blob/master/contact.md) 
-Wix | In progress. Coming soon. | - | -|-
+Wix | Pilot merchants in production. Coming soon for all. | - | -|-
 BigCommerce | To be decided. | - | -|-
 
 ### Craft Commerce
@@ -138,7 +138,7 @@ More information about [Wordpress on vipps.no](https://www.vipps.no/produkter-og
 ### Wix  
 
 ![Wix logo][wix-logo]  
-**eCommerce**: Coming soon.  
+**eCommerce**: Piloting the module. Coming soon for all.  
 **Recurring**: N/A  
 **Login**: N/A  
 
