@@ -89,12 +89,10 @@ More information about [Magento 2 on vipps.no](https://www.vipps.no/produkter-og
 
 ### Magento 1
 
-**eCommerce**: [vipps-magento-v1](https://github.com/vippsas/vipps-magento-v1) **Support:** [submit an issue on GitHub](https://github.com/vippsas/vipps-magento-v1) or send a mail to integration@vipps.no 
+**Important** The Vipps Payment Module for Magento 1 is no longer supported. Vipps will no longer do updates or patches to the module. Run this code at your own risk. 
 
-**Recurring**: N/A  
-**Login**: N/A  
+**eCommerce**: [vipps-magento-v1](https://github.com/vippsas/vipps-magento-v1) 
 
-More information about [Magento 1 on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/magento/)
 
 ### Shopify  
 
