@@ -11,7 +11,7 @@ We update this table as soon as statuses or plans change.
   - [Plugins](#plugins)
     - [Craft Commerce](#craft-commerce)
     - [Drupal](#drupal)
-    - [Optimizely/EpiServer](#episerver)
+    - [Optimizely/EpiServer](#optimizely)
     - [Magento 2](#magento-2)
     - [Magento 1](#magento-1)
     - [Shopify](#shopify)
@@ -36,7 +36,7 @@ WooCommerce | [vipps-woocommerce](https://github.com/vippsas/vipps-woocommerce) 
 WordPress | - | - | [vipps-login-wordpress](https://github.com/vippsas/vipps-login-wordpress) | [Details](#wordpress) |
 Magento 2 | [vipps-magento](https://github.com/vippsas/vipps-magento) | - | [vipps-login-magento](https://github.com/vippsas/vipps-login-magento) | [Details](#magento-2)
 Magento 1 | [vipps-magento-v1](https://github.com/vippsas/vipps-magento-v1) | - | -| [Details](#magento-1)
-Optimizelt/Episerver | [vipps-episerver](https://github.com/vippsas/vipps-episerver) | - | [vipps-login-dotnet](https://github.com/vippsas/vipps-login-dotnet) |-
+Optimizely (Episerver) | [vipps-episerver](https://github.com/vippsas/vipps-episerver) | - | [vipps-login-dotnet](https://github.com/vippsas/vipps-login-dotnet) |-
 Drupal | [vipps-drupal](https://github.com/vippsas/vipps-drupal) | [vipps-recurring-drupal](https://github.com/vippsas/vipps-recurring-drupal) | [vipps-login-drupal](https://github.com/vippsas/vipps-login-drupal) |[Details](#drupal)
 Shopify | [vipps-shopify](https://github.com/vippsas/vipps-shopify) | - | - | [Details](#shopify)
 Craft Commerce | To be decided. | - | [vipps-craft-login](https://github.com/vippsas/vipps-craft-login)| [Craft-related issues](https://craftcms.com/community) / [Plugin-related issues](https://github.com/elleracompany/vipps-craft-login/issues) / [Vipps-related issues](https://github.com/vippsas/vipps-developers/blob/master/contact.md) 
@@ -64,7 +64,8 @@ More information about [Craft on vipps.no](https://www.vipps.no/produkter-og-tje
 
 More information about [Drupal on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/drupal/)
 
-### Optimizely (formerly known as Episerver)  
+### Optimizely 
+(formerly known as Episerver)  
 
 ![Episerver logo][episerver-logo]  
 
@@ -115,7 +116,9 @@ The new app is awaiting approval from Shopify and it is expected to be approved 
 
 ![WooCommerce logo][woocommerce-logo]  
 
-**eCommerce**: [vipps-woocommerce](https://github.com/vippsas/vipps-woocommerce) **Support:** [wordpress.org](https://wordpress.org/support/plugin/woo-vipps/)  
+**eCommerce**: [vipps-woocommerce](https://github.com/vippsas/vipps-woocommerce) 
+Vipps Checkout and Vipps QR codes available through the plugin. 
+**Support:** [wordpress.org](https://wordpress.org/support/plugin/woo-vipps/)  
 **Recurring**: [vipps-recurring-woocommerce](https://github.com/vippsas/vipps-recurring-woocommerce) **Support:** [wordpress.org](https://wordpress.org/support/plugin/vipps-recurring-payments-gateway-for-woocommerce/)  
 **Login**: [See WordPress.](#wordpress)  
 
