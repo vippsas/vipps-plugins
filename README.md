@@ -60,6 +60,7 @@ More information about [Craft on vipps.no](https://www.vipps.no/produkter-og-tje
 **eCommerce**: [vipps-drupal](https://github.com/vippsas/vipps-drupal)  
 **Recurring**: [vipps-recurring-drupal](https://github.com/vippsas/vipps-recurring-drupal)  
 **Login**: [vipps-login-drupal](https://github.com/vippsas/vipps-login-drupal)  
+**Vipps Checkout**: Coming soon  
 
 More information about [Drupal on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/drupal/)
 
