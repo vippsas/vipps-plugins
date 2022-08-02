@@ -106,11 +106,14 @@ More information about [Magento 2 on vipps.no](https://www.vipps.no/produkter-og
 
 More information about [Shopify on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/shopify/)
 
-**Important**:
+**Important deprication notice!**
 
-The current Vipps module for Shopify will stop working from June 30. You will have to install a new Vipps app to be able to support Vipps payments.
-It is no longer possible to install the current Vipps app for new merchants. 
-The new app is awaiting approval from Shopify and it is expected to be approved before end of life of the existing app. 
+Shopify has changed their APIs and the previous Vipps app is no longer supported from July 31. You will have to install a new Vipps app to be able to support Vipps payments.
+
+Remember to capture/refund/cancel all existing orders before installing the new app.
+It is also possible to manually capture/refund/cancel in the [Vipps Portal](https://portal.vipps.no).
+
+The new Vipps payment app is available from [https://apps.shopify.com/vipps?locale=nb](https://apps.shopify.com/vipps?locale=nb).
 
 ### WooCommerce
 
