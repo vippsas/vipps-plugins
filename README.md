@@ -1,7 +1,16 @@
+<!-- START_METADATA 
+---
+title: Vipps Plugins
+sidebar_position: 1
+---
+END_METADATA -->
+
 # Vipps Plugins
 
 Vipps provides several open source plugins for various web solutions. This page gives an overview, and the sections below have more details.
 We update this table as soon as statuses or plans change.
+
+<!-- START_TOC -->
 
 ## Table of contents
 
@@ -22,12 +31,13 @@ We update this table as soon as statuses or plans change.
   - [Additional developer resources](#additional-developer-resources)
   - [Questions?](#questions)
 
+<!-- END_TOC -->
+
 ## API documentation
 
 See: [Getting started](https://github.com/vippsas/vipps-developers/blob/master/vipps-getting-started.md#getting-started).
 
 ## Plugins
-
 
 Platform/solution | eCommerce | Recurring  | Login | Support
 ----------------- | --------- | ---------- | ----- | -------
@@ -39,35 +49,36 @@ Magento 1 | [vipps-magento-v1](https://github.com/vippsas/vipps-magento-v1) | - 
 Optimizely (Episerver) | [vipps-episerver](https://github.com/vippsas/vipps-episerver) | - | [vipps-login-dotnet](https://github.com/vippsas/vipps-login-dotnet) |-
 Drupal | [vipps-drupal](https://github.com/vippsas/vipps-drupal) | [vipps-recurring-drupal](https://github.com/vippsas/vipps-recurring-drupal) | [vipps-login-drupal](https://github.com/vippsas/vipps-login-drupal) |[Details](#drupal)
 Shopify | [vipps-shopify](https://github.com/vippsas/vipps-shopify) | - | - | [Details](#shopify)
-Craft Commerce | To be decided. | - | [vipps-craft-login](https://github.com/vippsas/vipps-craft-login)| [Craft-related issues](https://craftcms.com/community) / [Plugin-related issues](https://github.com/elleracompany/vipps-craft-login/issues) / [Vipps-related issues](https://github.com/vippsas/vipps-developers/blob/master/contact.md) 
+Craft Commerce | To be decided. | - | [vipps-craft-login](https://github.com/vippsas/vipps-craft-login)| [Craft-related issues](https://craftcms.com/community) / [Plugin-related issues](https://github.com/elleracompany/vipps-craft-login/issues) / [Vipps-related issues](https://github.com/vippsas/vipps-developers/blob/master/contact.md)
 Wix | [vipps-wix](https://github.com/vippsas/vipps-wix) | - | -| [Details](#wix)
 BigCommerce | To be decided. | - | -|-
 
 ### Craft Commerce
 
-![Craft text][craft-cms-logo]  
+![Craft text][craft-cms-logo]
 
-**eCommerce**: To be decided.  
-**Recurring**: N/A  
-**Login**: [vipps-craft-login](https://github.com/vippsas/vipps-craft-login)  
+**eCommerce**: To be decided.
+**Recurring**: N/A
+**Login**: [vipps-craft-login](https://github.com/vippsas/vipps-craft-login)
 
 More information about [Craft on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/craft/)
 
-### Drupal  
+### Drupal
 
-![Drupal logo][drupal-logo]  
+![Drupal logo][drupal-logo]
 
-**eCommerce**: [vipps-drupal](https://github.com/vippsas/vipps-drupal)  
-**Recurring**: [vipps-recurring-drupal](https://github.com/vippsas/vipps-recurring-drupal)  
-**Login**: [vipps-login-drupal](https://github.com/vippsas/vipps-login-drupal)  
+**eCommerce**: [vipps-drupal](https://github.com/vippsas/vipps-drupal)
+**Recurring**: [vipps-recurring-drupal](https://github.com/vippsas/vipps-recurring-drupal)
+**Login**: [vipps-login-drupal](https://github.com/vippsas/vipps-login-drupal)
 **Vipps Checkout**: Coming soon  
 
 More information about [Drupal on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/drupal/)
 
-### Optimizely 
-(formerly known as Episerver)  
+### Optimizely
 
-![Episerver logo][episerver-logo]  
+(formerly known as Episerver)
+
+![Episerver logo][episerver-logo]
 
 **eCommerce**: [vipps-episerver](https://github.com/vippsas/vipps-episerver)  
 **Recurring**: N/A  
@@ -75,15 +86,13 @@ More information about [Drupal on vipps.no](https://www.vipps.no/produkter-og-tj
 
 More information about [Episerver on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/episerver/)
 
- 
-
 ### Magento 2
 
-![Magento logo][magento-logo] 
+![Magento logo][magento-logo]
 
-**eCommerce**: [vipps-magento](https://github.com/vippsas/vipps-magento) **Support:** [submit an issue on GitHub](https://github.com/vippsas/vipps-magento) or send a mail to integration@vipps.no 
+**eCommerce**: [vipps-magento](https://github.com/vippsas/vipps-magento) **Support:** [submit an issue on GitHub](https://github.com/vippsas/vipps-magento) or send a mail to integration@vipps.no
 
-**Login**: [vipps-login-magento](https://github.com/vippsas/vipps-login-magento) **Support:** [submit an issue on GitHub](https://github.com/vippsas/vipps-login-magento) or mail to integration@vipps.no 
+**Login**: [vipps-login-magento](https://github.com/vippsas/vipps-login-magento) **Support:** [submit an issue on GitHub](https://github.com/vippsas/vipps-login-magento) or mail to integration@vipps.no
 
 **Recurring**: N/A  
 
@@ -91,10 +100,9 @@ More information about [Magento 2 on vipps.no](https://www.vipps.no/produkter-og
 
 ### Magento 1
 
-**Important** The Vipps Payment Module for Magento 1 is no longer supported. Vipps will no longer do updates or patches to the module. Run this code at your own risk. 
+**Important** The Vipps Payment Module for Magento 1 is no longer supported. Vipps will no longer do updates or patches to the module. Run this code at your own risk.
 
-**eCommerce**: [vipps-magento-v1](https://github.com/vippsas/vipps-magento-v1) 
-
+**eCommerce**: [vipps-magento-v1](https://github.com/vippsas/vipps-magento-v1)
 
 ### Shopify  
 
@@ -119,8 +127,8 @@ The new Vipps payment app is available from [https://apps.shopify.com/vipps?loca
 
 ![WooCommerce logo][woocommerce-logo]  
 
-**eCommerce**: [vipps-woocommerce](https://github.com/vippsas/vipps-woocommerce) 
-Vipps Checkout and Vipps QR codes available through the plugin. 
+**eCommerce**: [vipps-woocommerce](https://github.com/vippsas/vipps-woocommerce)
+Vipps Checkout and Vipps QR codes available through the plugin.
 **Support:** [wordpress.org](https://wordpress.org/support/plugin/woo-vipps/)  
 **Recurring**: [vipps-recurring-woocommerce](https://github.com/vippsas/vipps-recurring-woocommerce) **Support:** [wordpress.org](https://wordpress.org/support/plugin/vipps-recurring-payments-gateway-for-woocommerce/)  
 **Login**: [See WordPress.](#wordpress)  
@@ -133,12 +141,12 @@ More information about [WooCommerce on vipps.no](https://www.vipps.no/produkter-
 
 **eCommerce**: [See WooCommerce.](#woocommerce)  
 **Recurring**: [See WooCommerce.](#woocommerce)  
-**Login**: [vipps-login-wordpress](https://github.com/vippsas/vipps-login-wordpress) **Support:** [wordpress.org](https://wordpress.org/support/plugin/login-with-vipps/) 
+**Login**: [vipps-login-wordpress](https://github.com/vippsas/vipps-login-wordpress) **Support:** [wordpress.org](https://wordpress.org/support/plugin/login-with-vipps/)
 
 More information about [Wordpress on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/woocommerce/)
 
-
 ### BigCommerce  
+
 ![BigCommerce logo][bigcommerce-logo]  
 
 **eCommerce**: To be decided.  
@@ -162,13 +170,11 @@ More information about [Wordpress on vipps.no](https://www.vipps.no/produkter-og
 [wordpress-logo]: https://github.com/vippsas/vipps-developers/blob/master/images/logos/wordpress.png "Wordpress logo"
 [woocommerce-logo]: https://github.com/vippsas/vipps-developers/blob/master/images/logos/woocommerce.png "WooCommerce logo"
 
-
-
 ## Additional developer resources
 
-* Developer overview: https://vipps.no/developer
-* Products, personal: http://vipps.no/privat
-* Products, business: http://vipps.no/bedrift
+- Developer overview: <https://vipps.no/developer>
+- Products, personal: <http://vipps.no/privat>
+- Products, business: <http://vipps.no/bedrift>
 
 ## Questions?
 
