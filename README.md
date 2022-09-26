@@ -55,7 +55,7 @@ BigCommerce | To be decided. | - | -|-
 
 ### Craft Commerce
 
-![Craft text][craft-cms-logo]
+![Craft text](images/logo-craft-cms.svg)
 
 **eCommerce**: To be decided.
 **Recurring**: N/A
@@ -65,7 +65,7 @@ More information about [Craft on vipps.no](https://www.vipps.no/produkter-og-tje
 
 ### Drupal
 
-![Drupal logo][drupal-logo]
+![Drupal logo](images/drupal.png)
 
 **eCommerce**: [vipps-drupal](https://github.com/vippsas/vipps-drupal)
 **Recurring**: [vipps-recurring-drupal](https://github.com/vippsas/vipps-recurring-drupal)
@@ -78,23 +78,23 @@ More information about [Drupal on vipps.no](https://www.vipps.no/produkter-og-tj
 
 (formerly known as Episerver)
 
-![Episerver logo][episerver-logo]
+![Episerver logo](images/episerver.png)
 
-**eCommerce**: [vipps-episerver](https://github.com/vippsas/vipps-episerver)  
+**eCommerce**: [vipps-episerver](https://github.com/vippsas/vipps-episerver)
 **Recurring**: N/A  
-**Login**: [vipps-login-dotnet](https://github.com/vippsas/vipps-login-dotnet)  
+**Login**: [vipps-login-dotnet](https://github.com/vippsas/vipps-login-dotnet)
 
 More information about [Episerver on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/episerver/)
 
 ### Magento 2
 
-![Magento logo][magento-logo]
+![Magento logo](images/magento.png)
 
 **eCommerce**: [vipps-magento](https://github.com/vippsas/vipps-magento) **Support:** [submit an issue on GitHub](https://github.com/vippsas/vipps-magento) or send a mail to integration@vipps.no
 
 **Login**: [vipps-login-magento](https://github.com/vippsas/vipps-login-magento) **Support:** [submit an issue on GitHub](https://github.com/vippsas/vipps-login-magento) or mail to integration@vipps.no
 
-**Recurring**: N/A  
+**Recurring**: N/A
 
 More information about [Magento 2 on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/magento/)
 
@@ -104,17 +104,17 @@ More information about [Magento 2 on vipps.no](https://www.vipps.no/produkter-og
 
 **eCommerce**: [vipps-magento-v1](https://github.com/vippsas/vipps-magento-v1)
 
-### Shopify  
+### Shopify
 
-![Shopify logo][shopify-logo]  
+![Shopify logo](images/shopify.png)
 
-**eCommerce**: [vipps-shopify](https://github.com/vippsas/vipps-shopify) **Support:** [See the support system](https://vipps-shopify.atlassian.net/servicedesk/customer/portal/3)  
-**Recurring**:  N/A  
+**eCommerce**: [vipps-shopify](https://github.com/vippsas/vipps-shopify) **Support:** [See the support system](https://vipps-shopify.atlassian.net/servicedesk/customer/portal/3)
+**Recurring**:  N/A
 **Login**:  N/A
 
 More information about [Shopify on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/shopify/)
 
-**Important deprication notice!**
+**Important deprecation notice!**
 
 Shopify has changed their APIs and the previous Vipps app is no longer supported from July 31. You will have to install a new Vipps app to be able to support Vipps payments.
 
@@ -125,50 +125,40 @@ The new Vipps payment app is available from [https://apps.shopify.com/vipps?loca
 
 ### WooCommerce
 
-![WooCommerce logo][woocommerce-logo]  
+![WooCommerce logo](images/woocommerce.png)
 
 **eCommerce**: [vipps-woocommerce](https://github.com/vippsas/vipps-woocommerce)
 Vipps Checkout and Vipps QR codes available through the plugin.
-**Support:** [wordpress.org](https://wordpress.org/support/plugin/woo-vipps/)  
-**Recurring**: [vipps-recurring-woocommerce](https://github.com/vippsas/vipps-recurring-woocommerce) **Support:** [wordpress.org](https://wordpress.org/support/plugin/vipps-recurring-payments-gateway-for-woocommerce/)  
-**Login**: [See WordPress.](#wordpress)  
+**Support:** [wordpress.org](https://wordpress.org/support/plugin/woo-vipps/)
+**Recurring**: [vipps-recurring-woocommerce](https://github.com/vippsas/vipps-recurring-woocommerce) **Support:** [wordpress.org](https://wordpress.org/support/plugin/vipps-recurring-payments-gateway-for-woocommerce/)
+**Login**: [See WordPress.](#wordpress)
 
 More information about [WooCommerce on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/woocommerce/)
 
 ### WordPress
 
-![Wordpress logo][wordpress-logo]  
+![Wordpress logo](images/wordpress.png)
 
-**eCommerce**: [See WooCommerce.](#woocommerce)  
-**Recurring**: [See WooCommerce.](#woocommerce)  
+**eCommerce**: [See WooCommerce.](#woocommerce)
+**Recurring**: [See WooCommerce.](#woocommerce)
 **Login**: [vipps-login-wordpress](https://github.com/vippsas/vipps-login-wordpress) **Support:** [wordpress.org](https://wordpress.org/support/plugin/login-with-vipps/)
 
 More information about [Wordpress on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/woocommerce/)
 
-### BigCommerce  
+### BigCommerce
 
-![BigCommerce logo][bigcommerce-logo]  
+![BigCommerce logo](images/bigcommerce.png)
 
-**eCommerce**: To be decided.  
-**Recurring**: N/A  
-**Login**: N/A  
+**eCommerce**: To be decided.
+**Recurring**: N/A
+**Login**: N/A
 
-### Wix  
+### Wix
 
-![Wix logo][wix-logo]  
-**eCommerce**: [vipps-wix](https://github.com/vippsas/vipps-wix) **Support:** [See the support system](https://crude.no/vipps-wix-support/)  
-**Recurring**: N/A  
-**Login**: N/A  
-
-[bigcommerce-logo]: images/bigcommerce.png "BigCommerce logo"
-[craft-cms-logo]: images/logo-craft-cms.svg "Craft cms logo"
-[drupal-logo]: images/drupal.png "Craft cms logo"
-[episerver-logo]: images/episerver.png "EpiServer logo"
-[magento-logo]: images/magento.png "Magento logo"
-[shopify-logo]: images/shopify.png "Shopify logo"
-[wix-logo]: images/wix.png "Wix logo"
-[wordpress-logo]: images/wordpress.png "Wordpress logo"
-[woocommerce-logo]: images/woocommerce.png "WooCommerce logo"
+![Wix logo](images/wix.png)
+**eCommerce**: [vipps-wix](https://github.com/vippsas/vipps-wix) **Support:** [See the support system](https://crude.no/vipps-wix-support/)
+**Recurring**: N/A
+**Login**: N/A
 
 ## Additional developer resources
 
