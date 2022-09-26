@@ -160,15 +160,15 @@ More information about [Wordpress on vipps.no](https://www.vipps.no/produkter-og
 **Recurring**: N/A  
 **Login**: N/A  
 
-[bigcommerce-logo]: https://github.com/vippsas/vipps-developers/blob/master/images/logos/bigcommerce.png "BigCommerce logo"
-[craft-cms-logo]: https://github.com/vippsas/vipps-developers/blob/master/images/logos/logo-craft-cms.svg "Craft cms logo"
-[drupal-logo]: https://github.com/vippsas/vipps-developers/blob/master/images/logos/drupal.png "Craft cms logo"
-[episerver-logo]: https://github.com/vippsas/vipps-developers/blob/master/images/logos/episerver.png "EpiServer logo"
-[magento-logo]: https://github.com/vippsas/vipps-developers/blob/master/images/logos/magento.png "Magento logo"
-[shopify-logo]: https://github.com/vippsas/vipps-developers/blob/master/images/logos/shopify.png "Shopify logo"
-[wix-logo]: https://github.com/vippsas/vipps-developers/blob/master/images/logos/wix.png "Wix logo"
-[wordpress-logo]: https://github.com/vippsas/vipps-developers/blob/master/images/logos/wordpress.png "Wordpress logo"
-[woocommerce-logo]: https://github.com/vippsas/vipps-developers/blob/master/images/logos/woocommerce.png "WooCommerce logo"
+[bigcommerce-logo]: images/bigcommerce.png "BigCommerce logo"
+[craft-cms-logo]: images/logo-craft-cms.svg "Craft cms logo"
+[drupal-logo]: images/drupal.png "Craft cms logo"
+[episerver-logo]: images/episerver.png "EpiServer logo"
+[magento-logo]: images/magento.png "Magento logo"
+[shopify-logo]: images/shopify.png "Shopify logo"
+[wix-logo]: images/wix.png "Wix logo"
+[wordpress-logo]: images/wordpress.png "Wordpress logo"
+[woocommerce-logo]: images/woocommerce.png "WooCommerce logo"
 
 ## Additional developer resources
 
