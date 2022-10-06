@@ -68,9 +68,9 @@ BigCommerce | To be decided. | - | -|-
 
 ![Craft text](images/logo-craft-cms.svg)
 
-**eCommerce**: To be decided.
-**Recurring**: N/A
-**Login**: [vipps-craft-login](https://github.com/vippsas/vipps-craft-login)
+* eCommerce: To be decided.
+* Recurring: N/A
+* Login: [vipps-craft-login](https://github.com/vippsas/vipps-craft-login)
 
 More information about [Craft on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/craft/)
 
@@ -78,10 +78,10 @@ More information about [Craft on vipps.no](https://www.vipps.no/produkter-og-tje
 
 ![Drupal logo](images/drupal.png)
 
-**eCommerce**: [vipps-drupal](https://github.com/vippsas/vipps-drupal)
-**Recurring**: [vipps-recurring-drupal](https://github.com/vippsas/vipps-recurring-drupal)
-**Login**: [vipps-login-drupal](https://github.com/vippsas/vipps-login-drupal)
-**Vipps Checkout**: Coming soon  
+* eCommerce: [vipps-drupal](https://github.com/vippsas/vipps-drupal)
+* Recurring: [vipps-recurring-drupal](https://github.com/vippsas/vipps-recurring-drupal)
+* Login: [vipps-login-drupal](https://github.com/vippsas/vipps-login-drupal)
+* Vipps Checkout: Coming soon  
 
 More information about [Drupal on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/drupal/)
 
@@ -91,9 +91,9 @@ More information about [Drupal on vipps.no](https://www.vipps.no/produkter-og-tj
 
 ![Episerver logo](images/episerver.png)
 
-**eCommerce**: [vipps-episerver](https://github.com/vippsas/vipps-episerver)
-**Recurring**: N/A  
-**Login**: [vipps-login-dotnet](https://github.com/vippsas/vipps-login-dotnet)
+* eCommerce: [vipps-episerver](https://github.com/vippsas/vipps-episerver)
+* Recurring: N/A  
+* Login: [vipps-login-dotnet](https://github.com/vippsas/vipps-login-dotnet)
 
 More information about [Episerver on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/episerver/)
 
@@ -101,11 +101,9 @@ More information about [Episerver on vipps.no](https://www.vipps.no/produkter-og
 
 ![Magento logo](images/magento.png)
 
-**eCommerce**: [vipps-magento](https://github.com/vippsas/vipps-magento) **Support:** [submit an issue on GitHub](https://github.com/vippsas/vipps-magento) or [contsact us](https://vippsas.github.io/vipps-developer-docs/docs/vipps-developers/contact).
-
-**Login**: [vipps-login-magento](https://github.com/vippsas/vipps-login-magento) **Support:** [submit an issue on GitHub](https://github.com/vippsas/vipps-login-magento) or [contsact us](https://vippsas.github.io/vipps-developer-docs/docs/vipps-developers/contact).
-
-**Recurring**: N/A
+* eCommerce: [vipps-magento](https://github.com/vippsas/vipps-magento) Support: [submit an issue on GitHub](https://github.com/vippsas/vipps-magento) or [contsact us](https://vippsas.github.io/vipps-developer-docs/docs/vipps-developers/contact).
+* Login: [vipps-login-magento](https://github.com/vippsas/vipps-login-magento) Support: [submit an issue on GitHub](https://github.com/vippsas/vipps-login-magento) or [contsact us](https://vippsas.github.io/vipps-developer-docs/docs/vipps-developers/contact).
+* Recurring: N/A
 
 More information about [Magento 2 on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/magento/)
 
@@ -113,21 +111,21 @@ More information about [Magento 2 on vipps.no](https://www.vipps.no/produkter-og
 
 **Important** The Vipps Payment Module for Magento 1 is no longer supported. Vipps will no longer do updates or patches to the module. Run this code at your own risk.
 
-**eCommerce**: [vipps-magento-v1](https://github.com/vippsas/vipps-magento-v1)
+* eCommerce: [vipps-magento-v1](https://github.com/vippsas/vipps-magento-v1)
 
 ### Shopify
 
 ![Shopify logo](images/shopify.png)
 
-**eCommerce**: [vipps-shopify](https://github.com/vippsas/vipps-shopify) **Support:** [See the support system](https://vipps-shopify.atlassian.net/servicedesk/customer/portal/3)
-**Recurring**:  N/A
-**Login**:  N/A
+* eCommerce: [vipps-shopify](https://github.com/vippsas/vipps-shopify) Support: [See the support system](https://vipps-shopify.atlassian.net/servicedesk/customer/portal/3)
+* Recurring:  N/A
+* Login:  N/A
 
 More information about [Shopify on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/shopify/)
 
 **Important deprecation notice!**
 
-Shopify has changed their APIs and the previous Vipps app is no longer supported from July 31. You will have to install a new Vipps app to be able to support Vipps payments.
+Shopify has changed their APIs and the previous Vipps app is no longer supported after July 31 2022. You will have to install a new Vipps app to be able to support Vipps payments.
 
 Remember to capture/refund/cancel all existing orders before installing the new app.
 It is also possible to manually capture/refund/cancel in the [Vipps Portal](https://portal.vipps.no).
@@ -138,11 +136,10 @@ The new Vipps payment app is available from [https://apps.shopify.com/vipps?loca
 
 ![WooCommerce logo](images/woocommerce.png)
 
-**eCommerce**: [vipps-woocommerce](https://github.com/vippsas/vipps-woocommerce)
-Vipps Checkout and Vipps QR codes available through the plugin.
-**Support:** [wordpress.org](https://wordpress.org/support/plugin/woo-vipps/)
-**Recurring**: [vipps-recurring-woocommerce](https://github.com/vippsas/vipps-recurring-woocommerce) **Support:** [wordpress.org](https://wordpress.org/support/plugin/vipps-recurring-payments-gateway-for-woocommerce/)
-**Login**: [See WordPress.](#wordpress)
+* eCommerce: [vipps-woocommerce](https://github.com/vippsas/vipps-woocommerce)
+* Vipps Checkout and Vipps QR codes available through the plugin. Support: [wordpress.org](https://wordpress.org/support/plugin/woo-vipps/)
+* Recurring: [vipps-recurring-woocommerce](https://github.com/vippsas/vipps-recurring-woocommerce) Support: [wordpress.org](https://wordpress.org/support/plugin/vipps-recurring-payments-gateway-for-woocommerce/)
+* Login: [See WordPress.](#wordpress)
 
 More information about [WooCommerce on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/woocommerce/)
 
@@ -150,9 +147,9 @@ More information about [WooCommerce on vipps.no](https://www.vipps.no/produkter-
 
 ![Wordpress logo](images/wordpress.png)
 
-**eCommerce**: [See WooCommerce.](#woocommerce)
-**Recurring**: [See WooCommerce.](#woocommerce)
-**Login**: [vipps-login-wordpress](https://github.com/vippsas/vipps-login-wordpress) **Support:** [wordpress.org](https://wordpress.org/support/plugin/login-with-vipps/)
+* eCommerce: [See WooCommerce.](#woocommerce)
+* Recurring: [See WooCommerce.](#woocommerce)
+* Login: [vipps-login-wordpress](https://github.com/vippsas/vipps-login-wordpress) Support: [wordpress.org](https://wordpress.org/support/plugin/login-with-vipps/)
 
 More information about [Wordpress on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/woocommerce/)
 
@@ -160,16 +157,17 @@ More information about [Wordpress on vipps.no](https://www.vipps.no/produkter-og
 
 ![BigCommerce logo](images/bigcommerce.png)
 
-**eCommerce**: To be decided.
-**Recurring**: N/A
-**Login**: N/A
+* eCommerce: To be decided.
+* Recurring: N/A
+* Login: N/A
 
 ### Wix
 
 ![Wix logo](images/wix.png)
-**eCommerce**: [vipps-wix](https://github.com/vippsas/vipps-wix) **Support:** [See the support system](https://crude.no/vipps-wix-support/)
-**Recurring**: N/A
-**Login**: N/A
+
+* eCommerce: [vipps-wix](https://github.com/vippsas/vipps-wix) Support: [See the support system](https://crude.no/vipps-wix-support/)
+* Recurring: N/A
+* Login: N/A
 
 ## Questions?
 
