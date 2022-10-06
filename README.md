@@ -23,28 +23,30 @@ We update this table as soon as statuses or plans change.
 
 ## Table of contents
 
-- [Vipps Plugins](#vipps-plugins)
-  - [Table of contents](#table-of-contents)
-  - [API documentation](#api-documentation)
-  - [Plugins](#plugins)
-    - [Craft Commerce](#craft-commerce)
-    - [Drupal](#drupal)
-    - [Optimizely/EpiServer](#optimizely)
-    - [Magento 2](#magento-2)
-    - [Magento 1](#magento-1)
-    - [Shopify](#shopify)
-    - [WooCommerce](#woocommerce)
-    - [WordPress](#wordpress)
-    - [BigCommerce](#bigcommerce)
-    - [Wix](#wix)
-  - [Additional developer resources](#additional-developer-resources)
-  - [Questions?](#questions)
+- [API documentation](#api-documentation)
+- [Plugins](#plugins)
+  - [Craft Commerce](#craft-commerce)
+  - [Drupal](#drupal)
+  - [Optimizely/EpiServer](#optimizely)
+  - [Magento 2](#magento-2)
+  - [Magento 1](#magento-1)
+  - [Shopify](#shopify)
+  - [WooCommerce](#woocommerce)
+  - [WordPress](#wordpress)
+  - [BigCommerce](#bigcommerce)
+  - [Wix](#wix)
+- [Additional developer resources](#additional-developer-resources)
+- [Questions?](#questions)
 
 <!-- END_TOC -->
+
+<!-- START_COMMENT -->
 
 ## API documentation
 
 See: [Getting started](https://github.com/vippsas/vipps-developers/blob/master/vipps-getting-started.md#getting-started).
+
+<!-- END_COMMENT -->
 
 ## Plugins
 
@@ -168,12 +170,6 @@ More information about [Wordpress on vipps.no](https://www.vipps.no/produkter-og
 **eCommerce**: [vipps-wix](https://github.com/vippsas/vipps-wix) **Support:** [See the support system](https://crude.no/vipps-wix-support/)
 **Recurring**: N/A
 **Login**: N/A
-
-## Additional developer resources
-
-- Developer overview: <https://vipps.no/developer>
-- Products, personal: <http://vipps.no/privat>
-- Products, business: <http://vipps.no/bedrift>
 
 ## Questions?
 
