@@ -101,9 +101,9 @@ More information about [Episerver on vipps.no](https://www.vipps.no/produkter-og
 
 ![Magento logo](images/magento.png)
 
-**eCommerce**: [vipps-magento](https://github.com/vippsas/vipps-magento) **Support:** [submit an issue on GitHub](https://github.com/vippsas/vipps-magento) or send a mail to integration@vipps.no
+**eCommerce**: [vipps-magento](https://github.com/vippsas/vipps-magento) **Support:** [submit an issue on GitHub](https://github.com/vippsas/vipps-magento) or [contsact us](https://vippsas.github.io/vipps-developer-docs/docs/vipps-developers/contact).
 
-**Login**: [vipps-login-magento](https://github.com/vippsas/vipps-login-magento) **Support:** [submit an issue on GitHub](https://github.com/vippsas/vipps-login-magento) or mail to integration@vipps.no
+**Login**: [vipps-login-magento](https://github.com/vippsas/vipps-login-magento) **Support:** [submit an issue on GitHub](https://github.com/vippsas/vipps-login-magento) or [contsact us](https://vippsas.github.io/vipps-developer-docs/docs/vipps-developers/contact).
 
 **Recurring**: N/A
 
@@ -174,6 +174,6 @@ More information about [Wordpress on vipps.no](https://www.vipps.no/produkter-og
 ## Questions?
 
 We're always happy to help with code or other questions you might have!
-Please create an GitHub issue or pull request in the related repos or [contact Vipps Integration](https://github.com/vippsas/vipps-developers/blob/master/contact.md) for general Vipps API related questions.
+Please create an GitHub issue or pull request in the related repos or [contact us](https://vippsas.github.io/vipps-developer-docs/docs/vipps-developers/contact) for general Vipps API related questions.
 
 Sign up for our [Technical newsletter for developers](https://github.com/vippsas/vipps-developers/tree/master/newsletters).
