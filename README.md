@@ -1,4 +1,4 @@
-<!-- START_METADATA 
+<!-- START_METADATA
 ---
 title: Vipps Plugins
 sidebar_position: 1
@@ -8,6 +8,13 @@ pagination_prev: null
 END_METADATA -->
 
 # Vipps Plugins
+
+<!-- START_COMMENT -->
+
+ℹ️ Please use the new documentation:
+[Vipps Technical Documentation](https://vippsas.github.io/vipps-developer-docs/).
+
+<!-- END_COMMENT -->
 
 Vipps provides several open source plugins for various web solutions. This page gives an overview, and the sections below have more details.
 We update this table as soon as statuses or plans change.
