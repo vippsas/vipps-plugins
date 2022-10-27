@@ -50,19 +50,19 @@ See: [Getting started](https://github.com/vippsas/vipps-developers/blob/master/v
 
 ## Plugins
 
-Platform/solution | eCommerce | Recurring  | Login | Support
------------------ | --------- | ---------- | ----- | -------
+Platform/solution | eCommerce | Vipps Checkout | Recurring  | Login | Support
+----------------- | --------- | -------------- |----------- | ----- | -------
 Vipps product info | [Vipps på nett](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/) | [Faste betalinger](https://vipps.no/produkter-og-tjenester/bedrift/faste-betalinger/faste-betalinger/) | [Vipps Logg Inn](https://www.vipps.no/produkter-og-tjenester/bedrift/logg-inn-med-vipps/logg-inn-med-vipps/) | - |
-WooCommerce | [vipps-woocommerce](https://github.com/vippsas/vipps-woocommerce) (Vipps Checkout included) | [vipps-recurring-woocommerce](https://github.com/vippsas/vipps-recurring-woocommerce) | - | [Details](#woocommerce)
-WordPress | - | - | [vipps-login-wordpress](https://github.com/vippsas/vipps-login-wordpress) | [Details](#wordpress) |
-Magento 2 | [vipps-magento](https://github.com/vippsas/vipps-magento) | - | [vipps-login-magento](https://github.com/vippsas/vipps-login-magento) | [Details](#magento-2)
-Magento 1 | [vipps-magento-v1](https://github.com/vippsas/vipps-magento-v1) | - | -| [Details](#magento-1)
-Optimizely (Episerver) | [vipps-episerver](https://github.com/vippsas/vipps-episerver) | - | [vipps-login-dotnet](https://github.com/vippsas/vipps-login-dotnet) |-
-Drupal | [vipps-drupal](https://github.com/vippsas/vipps-drupal) | [vipps-recurring-drupal](https://github.com/vippsas/vipps-recurring-drupal) | [vipps-login-drupal](https://github.com/vippsas/vipps-login-drupal) |[Details](#drupal)
-Shopify | [vipps-shopify](https://github.com/vippsas/vipps-shopify) | - | - | [Details](#shopify)
-Craft Commerce | To be decided. | - | [vipps-craft-login](https://github.com/vippsas/vipps-craft-login)| [Craft-related issues](https://craftcms.com/community) / [Plugin-related issues](https://github.com/elleracompany/vipps-craft-login/issues) / [Vipps-related issues](https://github.com/vippsas/vipps-developers/blob/master/contact.md)
-Wix | [vipps-wix](https://github.com/vippsas/vipps-wix) | - | -| [Details](#wix)
-BigCommerce | To be decided. | - | -|-
+WooCommerce | [vipps-woocommerce](https://github.com/vippsas/vipps-woocommerce)  | [vipps-woocommerce](https://github.com/vippsas/vipps-woocommerce)  | [vipps-recurring-woocommerce](https://github.com/vippsas/vipps-recurring-woocommerce) | - | [Details](#woocommerce)
+WordPress | - | - | - | [vipps-login-wordpress](https://github.com/vippsas/vipps-login-wordpress) | [Details](#wordpress) |
+Magento 2 | [vipps-magento](https://github.com/vippsas/vipps-magento) | [vipps-checkout-magento](https://github.com/vippsas/) | - | [vipps-login-magento](https://github.com/vippsas/vipps-login-magento) | [Details](#magento-2)
+Magento 1 | [vipps-magento-v1](https://github.com/vippsas/vipps-magento-v1) | - | - | -| [Details](#magento-1)
+Optimizely (Episerver) | [vipps-episerver](https://github.com/vippsas/vipps-episerver) | - | - | [vipps-login-dotnet](https://github.com/vippsas/vipps-login-dotnet) |-
+Drupal | [vipps-drupal](https://github.com/vippsas/vipps-drupal) | - | - | [vipps-recurring-drupal](https://github.com/vippsas/vipps-recurring-drupal) | [vipps-login-drupal](https://github.com/vippsas/vipps-login-drupal) |[Details](#drupal)
+Shopify | [vipps-shopify](https://github.com/vippsas/vipps-shopify) | - | - | - | [Details](#shopify)
+Craft Commerce | To be decided. | - | - | [vipps-craft-login](https://github.com/vippsas/vipps-craft-login)| [Craft-related issues](https://craftcms.com/community) / [Plugin-related issues](https://github.com/elleracompany/vipps-craft-login/issues) / [Vipps-related issues](https://github.com/vippsas/vipps-developers/blob/master/contact.md)
+Wix | [vipps-wix](https://github.com/vippsas/vipps-wix) | - | - | -| [Details](#wix)
+
 
 ### Craft Commerce
 
@@ -101,8 +101,9 @@ More information about [Episerver on vipps.no](https://www.vipps.no/produkter-og
 
 ![Magento logo](images/magento.png)
 
-* eCommerce: [vipps-magento](https://github.com/vippsas/vipps-magento) Support: [submit an issue on GitHub](https://github.com/vippsas/vipps-magento) or [contsact us](https://vippsas.github.io/vipps-developer-docs/docs/vipps-developers/contact).
-* Login: [vipps-login-magento](https://github.com/vippsas/vipps-login-magento) Support: [submit an issue on GitHub](https://github.com/vippsas/vipps-login-magento) or [contsact us](https://vippsas.github.io/vipps-developer-docs/docs/vipps-developers/contact).
+* eCommerce: [vipps-magento](https://github.com/vippsas/vipps-magento) Support: [submit an issue on GitHub](https://github.com/vippsas/vipps-magento) or [contact us](https://vippsas.github.io/vipps-developer-docs/docs/vipps-developers/contact).
+* Vipps Checkout: [vipps-checkout-magento](https://github.com/vippsas/vipps-checkout-magento) Support: [submit an issue on GitHub](https://github.com/vippsas/vipps-checkout-magento) or [contact us](https://vippsas.github.io/vipps-developer-docs/docs/vipps-developers/contact).
+* Login: [vipps-login-magento](https://github.com/vippsas/vipps-login-magento) Support: [submit an issue on GitHub](https://github.com/vippsas/vipps-login-magento) or [contact us](https://vippsas.github.io/vipps-developer-docs/docs/vipps-developers/contact).
 * Recurring: N/A
 
 More information about [Magento 2 on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/magento/)
@@ -172,4 +173,4 @@ More information about [Wordpress on vipps.no](https://www.vipps.no/produkter-og
 We're always happy to help with code or other questions you might have!
 Please create an GitHub issue or pull request in the related repos or [contact us](https://vippsas.github.io/vipps-developer-docs/docs/vipps-developers/contact) for general Vipps API related questions.
 
-Sign up for our [Technical newsletter for developers](https://github.com/vippsas/vipps-developers/tree/master/newsletters).
+Sign up for our [Technical newsletter for developers](https://vippsas.github.io/vipps-developer-docs/docs/vipps-developers/newsletters/).
