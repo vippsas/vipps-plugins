@@ -35,7 +35,6 @@ We update this table as soon as statuses or plans change.
   - [WordPress](#wordpress)
   - [BigCommerce](#bigcommerce)
   - [Wix](#wix)
-- [Additional developer resources](#additional-developer-resources)
 - [Questions?](#questions)
 
 <!-- END_TOC -->
