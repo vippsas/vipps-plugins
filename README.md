@@ -12,7 +12,7 @@ END_METADATA -->
 <!-- START_COMMENT -->
 
 ℹ️ Please use the new documentation:
-[Vipps Technical Documentation](https://vippsas.github.io/vipps-developer-docs/).
+[Vipps Technical Documentation](https://vippsas.github.io/vipps-developer-docs/docs/vipps-plugins/).
 
 <!-- END_COMMENT -->
 
@@ -43,7 +43,7 @@ We update this table as soon as statuses or plans change.
 
 ## API documentation
 
-See: [Getting started](https://github.com/vippsas/vipps-developers/blob/master/vipps-getting-started.md#getting-started).
+See: [Getting started](https://vippsas.github.io/vipps-developer-docs/docs/vipps-developers/vipps-getting-started).
 
 <!-- END_COMMENT -->
 
