@@ -33,7 +33,6 @@ We update this table as soon as statuses or plans change.
   - [Shopify](#shopify)
   - [WooCommerce](#woocommerce)
   - [WordPress](#wordpress)
-  - [BigCommerce](#bigcommerce)
   - [Wix](#wix)
 - [Questions?](#questions)
 
@@ -151,13 +150,6 @@ More information about [WooCommerce on vipps.no](https://www.vipps.no/produkter-
 
 More information about [Wordpress on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/woocommerce/)
 
-### BigCommerce
-
-![BigCommerce logo](images/bigcommerce.png)
-
-* eCommerce: To be decided.
-* Recurring: N/A
-* Login: N/A
 
 ### Wix
 
