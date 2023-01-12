@@ -9,17 +9,13 @@ END_METADATA -->
 
 # Vipps Plugins
 
+Vipps provides several open source plugins for various web solutions. This page gives an overview, and the sections below have more details.
+We update this table as soon as statuses or plans change.
+
 <!-- START_COMMENT -->
 
 ℹ️ Please use the new documentation:
 [Vipps Technical Documentation](https://vippsas.github.io/vipps-developer-docs/docs/vipps-plugins/).
-
-<!-- END_COMMENT -->
-
-Vipps provides several open source plugins for various web solutions. This page gives an overview, and the sections below have more details.
-We update this table as soon as statuses or plans change.
-
-<!-- START_TOC -->
 
 ## Table of contents
 
@@ -35,10 +31,6 @@ We update this table as soon as statuses or plans change.
   - [WordPress](#wordpress)
   - [Wix](#wix)
 - [Questions?](#questions)
-
-<!-- END_TOC -->
-
-<!-- START_COMMENT -->
 
 ## API documentation
 
