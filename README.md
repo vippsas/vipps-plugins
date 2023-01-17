@@ -50,7 +50,7 @@ Magento 1 | [vipps-magento-v1](https://github.com/vippsas/vipps-magento-v1) | - 
 Optimizely (Episerver) | [vipps-episerver](https://github.com/vippsas/vipps-episerver) | - | - | [vipps-login-dotnet](https://github.com/vippsas/vipps-login-dotnet) |-
 Drupal | [vipps-drupal](https://github.com/vippsas/vipps-drupal) | - | - | [vipps-recurring-drupal](https://github.com/vippsas/vipps-recurring-drupal) | [vipps-login-drupal](https://github.com/vippsas/vipps-login-drupal) |[Details](#drupal)
 Shopify | [vipps-shopify](https://github.com/vippsas/vipps-shopify) | - | - | - | [Details](#shopify)
-Craft Commerce | To be decided. | - | - | [vipps-craft-login](https://github.com/vippsas/vipps-craft-login)| [Craft-related issues](https://craftcms.com/community) / [Plugin-related issues](https://github.com/elleracompany/vipps-craft-login/issues) / [Vipps-related issues](https://github.com/vippsas/vipps-developers/blob/master/contact.md)
+Craft Commerce | To be decided. | - | - | [vipps-craft-login](https://github.com/vippsas/vipps-craft-login)| [Craft-related issues](https://craftcms.com/community) / [Plugin-related issues](https://github.com/elleracompany/vipps-craft-login/issues) / [Vipps-related issues](https://vippsas.github.io/vipps-developer-docs/docs/vipps-developers/contact)
 Wix | [vipps-wix](https://github.com/vippsas/vipps-wix) | - | - | -| [Details](#wix)
 
 
