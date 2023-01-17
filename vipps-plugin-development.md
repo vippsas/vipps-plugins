@@ -39,7 +39,7 @@ Documentation need to have the following info included.
 |     Notification on available updates| If not default by platform, add a notification banner if an available update for module is added. |
 |     API Dashboard| Add info that merchants can use Vipps' [API Dashboard](https://vippsas.github.io/vipps-developer-docs/docs/vipps-developers/vipps-resources#api-dashboard) to follow up on errors|
 |     Release notes| Add detailed release notes for new releases. Do not add cryptic comments about updates. Describe what's new|
-|     Add FAQ| Add a list of frequently asked questions and other typical issues|
+|     Add FAQ| Add a list of frequently asked questions and other typical issues related to the platform and module|
 
 
 ### Support 
