@@ -15,7 +15,7 @@ We update this table as soon as statuses or plans change.
 <!-- START_COMMENT -->
 
 ℹ️ Please use the new documentation:
-[Vipps Technical Documentation](https://vippsas.github.io/vipps-developer-docs/docs/vipps-plugins/).
+[Vipps Technical Documentation](https://vippsas.github.io/vipps-developer-docs/docs/vipps-plugins).
 
 ## Table of contents
 
@@ -30,13 +30,15 @@ We update this table as soon as statuses or plans change.
   - [WooCommerce](#woocommerce)
   - [WordPress](#wordpress)
   - [Wix](#wix)
-- [Questions?](#questions)
+
+<!-- END_COMMENT -->
 
 ## API documentation
 
-See: [Getting started](https://vippsas.github.io/vipps-developer-docs/docs/vipps-developers/vipps-getting-started).
+See
+[Vipps Developers: Getting started](https://vippsas.github.io/vipps-developer-docs/docs/vipps-developers/vipps-getting-started)
+for documentation about how to integrate with Vipps.
 
-<!-- END_COMMENT -->
 
 ## Plugins
 
@@ -142,7 +144,6 @@ More information about [WooCommerce on vipps.no](https://www.vipps.no/produkter-
 
 More information about [Wordpress on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/woocommerce/)
 
-
 ### Wix
 
 ![Wix logo](images/wix.png)
@@ -150,10 +151,3 @@ More information about [Wordpress on vipps.no](https://www.vipps.no/produkter-og
 * eCommerce: [vipps-wix](https://github.com/vippsas/vipps-wix) Support: [See the support system](https://crude.no/vipps-wix-support/)
 * Recurring: N/A
 * Login: N/A
-
-## Questions?
-
-We're always happy to help with code or other questions you might have!
-Please create an GitHub issue or pull request in the related repos or [contact us](https://vippsas.github.io/vipps-developer-docs/docs/vipps-developers/contact) for general Vipps API related questions.
-
-Sign up for our [Technical newsletter for developers](https://vippsas.github.io/vipps-developer-docs/docs/vipps-developers/newsletters/).
