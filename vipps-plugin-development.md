@@ -35,7 +35,7 @@ Documentation need to have the following info included.
 |     Prerequisites| What are prerequisites for using the module|
 |     Configuration| Add info about all configurable features|
 |     Get API keys| Include a detailed 1-2-3-type list with reference how to [get API keys](https://vippsas.github.io/vipps-developer-docs/docs/vipps-developers/common-topics/api-keys#getting-the-api-keys)|
-|     Info about on-site-messaging| Implement as configurable feature or add link to [Vipps on-site-messaging](https://vippsas.github.io/vipps-developer-docs/docs/APIs/checkout-api/vipps-checkout-on-site-messaging)|
+|     Info about on-site-messaging| How to configure in module or add link to [Vipps on-site-messaging](https://vippsas.github.io/vipps-developer-docs/docs/APIs/checkout-api/vipps-checkout-on-site-messaging)|
 |     Notification on available updates| If not default by platform, add a notification banner if an available update for module is added. |
 |     API Dashboard| Add info that merchants can use Vipps' [API Dashboard](https://vippsas.github.io/vipps-developer-docs/docs/vipps-developers/vipps-resources#api-dashboard) to follow up on errors|
 |     Release notes| Add detailed release notes for new releases. Do not add cryptic comments about updates. Describe what's new|
