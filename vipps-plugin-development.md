@@ -9,7 +9,7 @@ Follow these guidelines while creating plugin modules for Vipps. These are defin
 - [Plugin Checklist](#plugin-checklist)
     - [Documentation](#documentation)
     - [Support](#support)
-- [Development and required features](#development-and-required-features)
+    - [Development and required features](#development-and-required-features)
 - [Questions?](#questions)
 
 
@@ -31,10 +31,10 @@ Documentation need to have the following info included.
 | Required content | Comment |
 |-----|-----------|
 |     List of features| A list of available features and info how to configure, enable/disable them. |
-|     Install plugin| How to install and prerequisites for installing|
+|     Install plugin| How to install the module|
 |     Prerequisites| What are prerequisites for using the module|
-|     Get API keys| Include a detailed 1-2-3-type list with reference how to [get API keys](https://vippsas.github.io/vipps-developer-docs/docs/vipps-developers/common-topics/api-keys#getting-the-api-keys)|
 |     Configuration| Add info about all configurable features|
+|     Get API keys| Include a detailed 1-2-3-type list with reference how to [get API keys](https://vippsas.github.io/vipps-developer-docs/docs/vipps-developers/common-topics/api-keys#getting-the-api-keys)|
 |     Info about on-site-messaging| Implement as configurable feature or add link to [Vipps on-site-messaging](https://vippsas.github.io/vipps-developer-docs/docs/APIs/checkout-api/vipps-checkout-on-site-messaging)|
 |     Notification on available updates| If not default by platform, add a notification banner if an available update for module is added. |
 |     API Dashboard| Add info that merchants can use Vipps' [API Dashboard](https://vippsas.github.io/vipps-developer-docs/docs/vipps-developers/vipps-resources#api-dashboard) to follow up on errors|
@@ -50,7 +50,7 @@ Add seperate section for support.
 |-----|-----------|
 |     Support| How to get help. Link to the plugins's support system (do not link to [Vipps contact page](https://vippsas.github.io/vipps-developer-docs/docs/vipps-developers/contact))|
 |     Link to Vipps Portal| Inform merchant that they can manage their sale units, see reports, etc: "On [portal.vipps.no](https://portal.vipps.no) you can manage your sale unit (change name and logo, etc), see reports of all payments, etc"|
-|     Link to eCom FAQ| "For typical questions and [answers about Vipps payments](https://vippsas.github.io/vipps-developer-docs/docs/APIs/ecom-api/vipps-ecom-api-faq)"|
+|     Link to Vipps FAQ| "For typical questions and [answers about Vipps payments and APIs](https://vippsas.github.io/vipps-developer-docs/docs/vipps-developers/faqs)"|
 |     Info about contributing on GitHub| Add to issues tab on the GitHub repo|
 |     Link to Vipps "help"-pages| "[The Vipps help page](https://vipps.no/hjelp/vipps/)"|
 |     Link to Vipps Kundesenter for merchants| "If you need help with your customer relationship with Vipps: [Contact Vipps customer service](https://vipps.no/hjelp/vipps/)"|
