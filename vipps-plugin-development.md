@@ -66,7 +66,7 @@ Following details and routines must be part of the module developed.
 |     Error Logging| Option to activate debugging mode with enhanced logging, and track all Vipps calls and responses. Track both [error code and error message](https://vippsas.github.io/vipps-developer-docs/docs/APIs/ecom-api/vipps-ecom-api/#error-codes). Present results in a separate page in the module configuration with the complete Vipps error message
 |     Error Handling| Make sure users get a understandable notification if something went wrong, both administrators and customers. For POS integration present info both to cashier and customers.
 |     Follow up on GitHub security/ Dependabot alerts| Will be added to pull requests and a monthly routine for updating these
-|     On-site-messaging configurator| Add a configurable On-site-messaging feature to ease the Vipps profiling [Vipps on-site-messaging](https://vippsas.github.io/vipps-developer-docs/docs/APIs/checkout-api/vipps-checkout-on-site-messaging)|        
+|     On-site-messaging configuration| Add a configurable _On-site-messaging_ feature to ease the [Vipps on-site-messaging](https://vippsas.github.io/vipps-developer-docs/docs/APIs/checkout-api/vipps-checkout-on-site-messaging). |        
 
 
 
