@@ -35,12 +35,12 @@ Documentation must include the following information.
 |     Get API keys| Include a detailed 1-2-3-type list with reference how to [get API keys](https://vippsas.github.io/vipps-developer-docs/docs/vipps-developers/common-topics/api-keys#getting-the-api-keys). |
 |     Info about on-site-messaging| Specify how to configure in module or add a link to [Vipps on-site-messaging](https://vippsas.github.io/vipps-developer-docs/docs/APIs/checkout-api/vipps-checkout-on-site-messaging). |
 |     Notification on available updates| If it's not default by platform, show a notification banner when an update is available for the module. |
-|     API Dashboard| Inform that merchants can use the [Vipps API Dashboard](https://vippsas.github.io/vipps-developer-docs/docs/vipps-developers/vipps-resources#api-dashboard) to follow up on errors.|
+|     API Dashboard| Inform that merchants can use the [Vipps API Dashboard](https://vippsas.github.io/vipps-developer-docs/docs/vipps-developers/developer-resources/api-dashboard) to follow up on errors.|
 |     Release notes| Add detailed release notes for new releases. Do not add cryptic comments about updates, but describe what is new. |
 |     Add FAQ| Add a list of frequently asked questions and information about other typical issues related to the platform and module.|
 
 
-### Support 
+### Support
 
 Add a separate section for support.
 
@@ -64,5 +64,5 @@ Include the following details and routines as part of the module.
 |     Error Logging| Include the option to activate debugging mode with enhanced logging and tracking of all Vipps calls and responses. Track both [error codes and error messages](https://vippsas.github.io/vipps-developer-docs/docs/APIs/ecom-api/vipps-ecom-api#error-codes). Present the results in a separate page of the module configuration, with the complete Vipps error message displayed.
 |     Error Handling| Ensure that users, both administrators and customers, receive an unambiguous notification when anything goes wrong. For POS integration, present the information to both the cashier and the customers.
 |     Follow up on GitHub security/Dependabot alerts | Ensure that security alerts are added to pull requests and that there is a monthly routine in place for handling these. |
-|     On-site-messaging configuration| Add a configurable _On-site-messaging_ feature to ease the [Vipps on-site-messaging](https://vippsas.github.io/vipps-developer-docs/docs/APIs/checkout-api/vipps-checkout-on-site-messaging). |        
+|     On-site-messaging configuration| Add a configurable _On-site-messaging_ feature to ease the [Vipps on-site-messaging](https://vippsas.github.io/vipps-developer-docs/docs/APIs/checkout-api/vipps-checkout-on-site-messaging). |
 
