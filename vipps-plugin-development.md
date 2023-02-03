@@ -20,7 +20,7 @@ See: [Getting started](https://vippsas.github.io/vipps-developer-docs/docs/vipps
 
 ## Plugin Checklist
 
-Use this info as a guideline to make sure documentation and required featured are followed. These requirements are in addtion to the features described in [our default checklists](https://vippsas.github.io/vipps-developer-docs/docs/vipps-partner#finishing-the-integration-and-going-live).
+Use this info as a guideline to make sure documentation and the required features are followed. These requirements are in addition to the features described in [our default checklists](https://vippsas.github.io/vipps-developer-docs/docs/vipps-partner#finishing-the-integration-and-going-live).
 
 The following sections must be added to plugin/module description:
 
