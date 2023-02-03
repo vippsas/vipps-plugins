@@ -44,7 +44,7 @@ Drupal | [vipps-drupal](https://github.com/vippsas/vipps-drupal) | - | - | [vipp
 Magento 2 | [vipps-magento](https://github.com/vippsas/vipps-magento) | [vipps-checkout-magento](https://github.com/vippsas/) | - | [vipps-login-magento](https://github.com/vippsas/vipps-login-magento) | [Details](#magento-2)
 Magento 1 | [vipps-magento-v1](https://github.com/vippsas/vipps-magento-v1) | - | - | -| [Details](#magento-1)
 Optimizely/Episerver | [vipps-episerver](https://github.com/vippsas/vipps-episerver) | - | - | [vipps-login-dotnet](https://github.com/vippsas/vipps-login-dotnet) |-
-Shopify | [vipps-shopify](https://github.com/vippsas/vipps-shopify) | - | - | - | [Details](#shopify)
+Shopify | [vipps-shopify](https://github.com/vippsas/vipps-shopify) | [vipps-checkout-shopify](https://apps.shopify.com/vipps-checkout?locale=nb) | - | - | [Details](#shopify)
 Wix | [vipps-wix](https://github.com/vippsas/vipps-wix) | - | - | -| [Details](#wix)
 WooCommerce | [vipps-woocommerce](https://github.com/vippsas/vipps-woocommerce)  | [vipps-woocommerce](https://github.com/vippsas/vipps-woocommerce)  | [vipps-recurring-woocommerce](https://github.com/vippsas/vipps-recurring-woocommerce) | - | [Details](#woocommerce)
 WordPress | - | - | - | [vipps-login-wordpress](https://github.com/vippsas/vipps-login-wordpress) | [Details](#wordpress) |
@@ -107,6 +107,7 @@ More information about [Episerver on vipps.no](https://www.vipps.no/produkter-og
 ![Shopify logo](images/shopify.png)
 
 * eCommerce: [vipps-shopify](https://github.com/vippsas/vipps-shopify) Support: [See the support system](https://vipps-shopify.atlassian.net/servicedesk/customer/portal/3)
+* Vipps Checkout for Shopify: [vipps-checkout-shopify](https://apps.shopify.com/vipps-checkout?locale=nb) Support: [See the support system](https://vipps-shopify.atlassian.net/servicedesk/customer/portal/3)
 * Recurring:  N/A
 * Login:  N/A
 
