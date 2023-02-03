@@ -26,7 +26,7 @@ The following sections must be added to the plugin/module description.
 
 ### Documentation
 
-Documentation need to have the following info included.
+Documentation must include the following information.
 
 | Required content | Comment |
 |-----|-----------|
