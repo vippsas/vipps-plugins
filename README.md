@@ -1,6 +1,6 @@
 <!-- START_METADATA
 ---
-title: Vipps Plugins
+title: Introduction
 sidebar_position: 1
 pagination_next: null
 pagination_prev: null
