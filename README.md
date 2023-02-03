@@ -93,7 +93,7 @@ More information about [Episerver on vipps.no](https://www.vipps.no/produkter-og
 
 ![Magento logo](images/magento.png)
 
-* eCommerce: [vipps-magento](https://github.com/vippsas/vipps-magento) Support: [submit an issue on GitHub](https://github.com/vippsas/vipps-magento) or [contact us](https://vippsas.github.io/vipps-developer-docs/docs/vipps-developers/contact).
+* eCommerce: [vipps-magento](https://github.com/vippsas/vipps-magento) Documentation on [GitHub Wiki](https://github.com/vippsas/vipps-magento/wiki/Documentation) Support: [submit an issue on GitHub](https://github.com/vippsas/vipps-magento) or [contact us](https://vippsas.github.io/vipps-developer-docs/docs/vipps-developers/contact).
 * Vipps Checkout: [vipps-checkout-magento](https://github.com/vippsas/vipps-checkout-magento) Support: [submit an issue on GitHub](https://github.com/vippsas/vipps-checkout-magento) or [contact us](https://vippsas.github.io/vipps-developer-docs/docs/vipps-developers/contact).
 * Login: [vipps-login-magento](https://github.com/vippsas/vipps-login-magento) Support: [submit an issue on GitHub](https://github.com/vippsas/vipps-login-magento) or [contact us](https://vippsas.github.io/vipps-developer-docs/docs/vipps-developers/contact).
 * Recurring: N/A
