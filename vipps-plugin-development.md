@@ -3,15 +3,6 @@
 
 Follow these guidelines while creating plugin modules for Vipps. These are defined to minimize manual support. 
 
-## Table of contents
-
-- [API documentation](#api-documentation)
-- [Plugin Checklist](#plugin-checklist)
-    - [Documentation](#documentation)
-    - [Support](#support)
-    - [Development and required features](#development-and-required-features)
-- [Questions?](#questions)
-
 
 ## API documentation
 
@@ -67,19 +58,4 @@ Include the following details and routines as part of the module.
 |     Error Handling| Ensure that users, both administrators and customers, receive an unambiguous notification when anything goes wrong. For POS integration, present the information to both the cashier and the customers.
 |     Follow up on GitHub security/Dependabot alerts | Ensure that security alerts are added to pull requests and that there is a monthly routine in place for handling these. |
 |     On-site-messaging configuration| Add a configurable _On-site-messaging_ feature to ease the [Vipps on-site-messaging](https://vippsas.github.io/vipps-developer-docs/docs/APIs/checkout-api/vipps-checkout-on-site-messaging). |        
-
-
-
-## Questions?
-
-We're always happy to help with code or other questions you might have!
-Please create an GitHub issue or pull request in the related repos or [contact us](https://vippsas.github.io/vipps-developer-docs/docs/vipps-developers/contact) for general Vipps API related questions.
-
-Sign up for our [Technical newsletter for developers](https://vippsas.github.io/vipps-developer-docs/docs/vipps-developers/newsletters/).
-
-
-
-
-
-
 
