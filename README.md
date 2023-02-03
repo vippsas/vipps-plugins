@@ -17,43 +17,38 @@ We update this table as soon as statuses or plans change.
 ℹ️ Please use the new documentation:
 [Vipps Technical Documentation](https://vippsas.github.io/vipps-developer-docs/docs/vipps-plugins).
 
-## Table of contents
-
-- [API documentation](#api-documentation)
-- [Plugins](#plugins)
-  - [Craft Commerce](#craft-commerce)
-  - [Drupal](#drupal)
-  - [Optimizely/EpiServer](#optimizely)
-  - [Magento 2](#magento-2)
-  - [Magento 1](#magento-1)
-  - [Shopify](#shopify)
-  - [WooCommerce](#woocommerce)
-  - [WordPress](#wordpress)
-  - [Wix](#wix)
-
 <!-- END_COMMENT -->
 
-## API documentation
-
-See
-[Vipps Developers: Getting started](https://vippsas.github.io/vipps-developer-docs/docs/vipps-developers/vipps-getting-started)
-for documentation about how to integrate with Vipps.
 
 
 ## Plugins
 
+The following plugins are available:
+
+* [Craft Commerce](#craft-commerce)
+* [Drupal](#drupal)
+* [Magento 2](#magento-2)
+* [Magento 1](#magento-1)
+* [Optimizely/EpiServer](#optimizely)
+* [Shopify](#shopify)
+* [Wix](#wix)
+* [WooCommerce](#woocommerce)
+* [WordPress](#wordpress)
+
+These can be used in the Vipps solutions as follows:
+
 Platform/solution | eCommerce | Vipps Checkout | Recurring  | Login | Support
 ----------------- | --------- | -------------- |----------- | ----- | -------
-Vipps product info | [Vipps på nett](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/) | [Faste betalinger](https://vipps.no/produkter-og-tjenester/bedrift/faste-betalinger/faste-betalinger/) | [Vipps Logg Inn](https://www.vipps.no/produkter-og-tjenester/bedrift/logg-inn-med-vipps/logg-inn-med-vipps/) | - |
-WooCommerce | [vipps-woocommerce](https://github.com/vippsas/vipps-woocommerce)  | [vipps-woocommerce](https://github.com/vippsas/vipps-woocommerce)  | [vipps-recurring-woocommerce](https://github.com/vippsas/vipps-recurring-woocommerce) | - | [Details](#woocommerce)
-WordPress | - | - | - | [vipps-login-wordpress](https://github.com/vippsas/vipps-login-wordpress) | [Details](#wordpress) |
+Craft Commerce | To be decided. | - | - | [vipps-craft-login](https://github.com/vippsas/vipps-craft-login)| [Craft-related issues](https://craftcms.com/community) / [Plugin-related issues](https://github.com/elleracompany/vipps-craft-login/issues) / [Vipps-related issues](https://vippsas.github.io/vipps-developer-docs/docs/vipps-developers/contact)
+Drupal | [vipps-drupal](https://github.com/vippsas/vipps-drupal) | - | - | [vipps-recurring-drupal](https://github.com/vippsas/vipps-recurring-drupal) | [vipps-login-drupal](https://github.com/vippsas/vipps-login-drupal) |[Details](#drupal)
 Magento 2 | [vipps-magento](https://github.com/vippsas/vipps-magento) | [vipps-checkout-magento](https://github.com/vippsas/) | - | [vipps-login-magento](https://github.com/vippsas/vipps-login-magento) | [Details](#magento-2)
 Magento 1 | [vipps-magento-v1](https://github.com/vippsas/vipps-magento-v1) | - | - | -| [Details](#magento-1)
-Optimizely (Episerver) | [vipps-episerver](https://github.com/vippsas/vipps-episerver) | - | - | [vipps-login-dotnet](https://github.com/vippsas/vipps-login-dotnet) |-
-Drupal | [vipps-drupal](https://github.com/vippsas/vipps-drupal) | - | - | [vipps-recurring-drupal](https://github.com/vippsas/vipps-recurring-drupal) | [vipps-login-drupal](https://github.com/vippsas/vipps-login-drupal) |[Details](#drupal)
+Optimizely/Episerver | [vipps-episerver](https://github.com/vippsas/vipps-episerver) | - | - | [vipps-login-dotnet](https://github.com/vippsas/vipps-login-dotnet) |-
 Shopify | [vipps-shopify](https://github.com/vippsas/vipps-shopify) | - | - | - | [Details](#shopify)
-Craft Commerce | To be decided. | - | - | [vipps-craft-login](https://github.com/vippsas/vipps-craft-login)| [Craft-related issues](https://craftcms.com/community) / [Plugin-related issues](https://github.com/elleracompany/vipps-craft-login/issues) / [Vipps-related issues](https://vippsas.github.io/vipps-developer-docs/docs/vipps-developers/contact)
 Wix | [vipps-wix](https://github.com/vippsas/vipps-wix) | - | - | -| [Details](#wix)
+WooCommerce | [vipps-woocommerce](https://github.com/vippsas/vipps-woocommerce)  | [vipps-woocommerce](https://github.com/vippsas/vipps-woocommerce)  | [vipps-recurring-woocommerce](https://github.com/vippsas/vipps-recurring-woocommerce) | - | [Details](#woocommerce)
+WordPress | - | - | - | [vipps-login-wordpress](https://github.com/vippsas/vipps-login-wordpress) | [Details](#wordpress) |
+Vipps product info | [Vipps på nett](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/) | [Faste betalinger](https://vipps.no/produkter-og-tjenester/bedrift/faste-betalinger/faste-betalinger/) | [Vipps Logg Inn](https://www.vipps.no/produkter-og-tjenester/bedrift/logg-inn-med-vipps/logg-inn-med-vipps/) | - |
 
 
 ### Craft Commerce
@@ -77,18 +72,6 @@ More information about [Craft on vipps.no](https://www.vipps.no/produkter-og-tje
 
 More information about [Drupal on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/drupal/)
 
-### Optimizely
-
-(formerly known as Episerver)
-
-![Episerver logo](images/episerver.png)
-
-* eCommerce: [vipps-episerver](https://github.com/vippsas/vipps-episerver)
-* Recurring: N/A  
-* Login: [vipps-login-dotnet](https://github.com/vippsas/vipps-login-dotnet)
-
-More information about [Episerver on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/episerver/)
-
 ### Magento 2
 
 ![Magento logo](images/magento.png)
@@ -106,6 +89,19 @@ More information about [Magento 2 on vipps.no](https://www.vipps.no/produkter-og
 
 * eCommerce: [vipps-magento-v1](https://github.com/vippsas/vipps-magento-v1)
 
+
+### Optimizely
+
+(formerly known as Episerver)
+
+![Episerver logo](images/episerver.png)
+
+* eCommerce: [vipps-episerver](https://github.com/vippsas/vipps-episerver)
+* Recurring: N/A  
+* Login: [vipps-login-dotnet](https://github.com/vippsas/vipps-login-dotnet)
+
+More information about [Episerver on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/episerver/)
+
 ### Shopify
 
 ![Shopify logo](images/shopify.png)
@@ -122,6 +118,14 @@ new Vipps app to be able to support Vipps payments. Remember to capture/refund/c
 all existing orders before installing the new app. It is also possible to manually
 capture/refund/cancel in the [Vipps Portal](https://portal.vipps.no).
 The new Vipps payment app is available from [https://apps.shopify.com/vipps?locale=nb](https://apps.shopify.com/vipps?locale=nb).
+
+### Wix
+
+![Wix logo](images/wix.png)
+
+* eCommerce: [vipps-wix](https://github.com/vippsas/vipps-wix) Support: [See the support system](https://crude.no/vipps-wix-support/)
+* Recurring: N/A
+* Login: N/A
 
 ### WooCommerce
 
@@ -144,10 +148,3 @@ More information about [WooCommerce on vipps.no](https://www.vipps.no/produkter-
 
 More information about [Wordpress on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/woocommerce/)
 
-### Wix
-
-![Wix logo](images/wix.png)
-
-* eCommerce: [vipps-wix](https://github.com/vippsas/vipps-wix) Support: [See the support system](https://crude.no/vipps-wix-support/)
-* Recurring: N/A
-* Login: N/A
