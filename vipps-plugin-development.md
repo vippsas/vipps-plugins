@@ -47,7 +47,7 @@ Add a separate section for support.
 | Required content | Comment |
 |-----|-----------|
 |     Support| Provide information about how to get help with the plugin or module. Link to the plugin's support system. Do not link to Vipps contact page. |
-|     Link to Vipps Portal| Inform the merchant that they can manage their sale units on the Vipps portal. For example: "You can manage your sale unit (e.g., change name and logo), see reports of all payments, etc. on [portal.vipps.no](https://portal.vipps.no)."|
+|     Link to Vipps Portal| Inform the merchant that they can manage their sales units on the Vipps portal. For example: "You can manage your sales unit (e.g., change name and logo), see reports of all payments, etc. on [portal.vipps.no](https://portal.vipps.no)."|
 |     Link to Vipps FAQ| Provide a link to the Vipps FAQs. For example: "For typical questions and answers about Vipps payments and APIs, see the [Vipps FAQs](https://vippsas.github.io/vipps-developer-docs/docs/vipps-developers/faqs)."|
 |     Info about contributing on GitHub| Add to the _issues_ tab on the GitHub repo. |
 |     Link to Vipps "help"-pages| "[The Vipps help page](https://vipps.no/hjelp/vipps/)"|
