@@ -1,7 +1,10 @@
 <!-- START_METADATA
 ---
-title: Introduction
+title: Introduction to the Vipps Plugins
+sidebar_label: Introduction
 sidebar_position: 1
+hide_table_of_contents: true
+description: Get an overview of the Vipps Plugins.
 pagination_next: null
 pagination_prev: null
 ---

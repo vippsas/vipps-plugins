@@ -1,9 +1,13 @@
-<!-- START_METADATA ---
-title: Checklist
+<!-- START_METADATA
+---
+title: Plugins checklist
+sidebar_label: Checklist
 sidebar_position: 10
+description: Checklist for developing a Vipps plugin.
 pagination_next: null
 pagination_prev: null
---- END_METADATA -->
+---
+END_METADATA -->
 
 
 # Checklist for developing Vipps Plugins
