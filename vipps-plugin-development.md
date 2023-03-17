@@ -17,7 +17,7 @@ Follow these guidelines while creating plugin modules for Vipps. These are defin
 
 ## API documentation
 
-See: [Getting started](https://vippsas.github.io/vipps-developer-docs/docs/vipps-developers/vipps-getting-started).
+See: [Getting started](https://vippsas.github.io/vipps-developer-docs/docs/vipps-developers/getting-started).
 
 
 ## Plugin Checklist
