@@ -1,4 +1,3 @@
-<!-- START_METADATA
 ---
 title: Introduction to the Vipps Plugins
 sidebar_label: Introduction
@@ -8,21 +7,11 @@ description: Get an overview of the Vipps Plugins.
 pagination_next: null
 pagination_prev: null
 ---
-END_METADATA -->
 
 # Vipps Plugins
 
 Vipps provides several open source plugins for various web solutions. This page gives an overview, and the sections below have more details.
 We update this table as soon as statuses or plans change.
-
-<!-- START_COMMENT -->
-
-ℹ️ Please use the website:
-[Vipps MobilePay Technical Documentation](https://developer.vippsmobilepay.com/docs/vipps-plugins).
-
-<!-- END_COMMENT -->
-
-
 
 ## Plugins
 
@@ -117,7 +106,7 @@ More information about [Episerver on vipps.no](https://www.vipps.no/produkter-og
 More information about [Shopify on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/shopify/)
 
 **Important deprecation notice!** Shopify has changed their APIs and the previous
-Vipps app is no longer supported after July 31 2022. You will have to install a
+Vipps app is no longer supported after July 31, 2022. You will have to install a
 new Vipps app to be able to support Vipps payments. Remember to capture/refund/cancel
 all existing orders before installing the new app. It is also possible to manually
 capture/refund/cancel in the [Vipps Portal](https://portal.vipps.no).
