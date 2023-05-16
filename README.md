@@ -22,7 +22,7 @@ We update this table as soon as statuses or plans change.
 
 <!-- END_COMMENT -->
 
-
+If you are interested in creating a plugin, see [Checklist for developing Vipps plugins](plugin-development.md).
 
 ## Plugins
 
