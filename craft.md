@@ -14,11 +14,11 @@ END_METADATA -->
 
 For more information (in Norwegian), see [Craft on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/craft/).
 
-## Types of plugins
+## Plugins
 
+* Login: [Vipps Login for CraftCMS](https://github.com/vippsas/vipps-craft-login)
 * Payment: N/A
 * Recurring: N/A
-* Login: [vipps-craft-login](https://github.com/vippsas/vipps-craft-login)
 
 ## Support
 

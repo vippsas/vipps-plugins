@@ -14,20 +14,20 @@ END_METADATA -->
 
 For information (in Norwegian), see [Magento on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/magento/).
 
-## Types of plugins
+## Plugins
 
-* Payment: [vipps-magento](https://github.com/vippsas/vipps-magento) Documentation on [GitHub Wiki](https://github.com/vippsas/vipps-magento/wiki/Documentation).
-* Checkout: [vipps-checkout-magento](https://github.com/vippsas/vipps-checkout-magento).
-* Login: [vipps-login-magento](https://github.com/vippsas/vipps-login-magento) Documentation on [GitHub Wiki](https://github.com/vippsas/vipps-login-magento/wiki/Technical-User-Guide#introduction).
+* Payment: [Vipps Payment Module for Magento](https://github.com/vippsas/vipps-magento)
+* Checkout: [Vipps Checkout Module for Magento](https://github.com/vippsas/vipps-checkout-magento)
+* Login: [Vipps Login Module for Magento](https://github.com/vippsas/vipps-login-magento)
 * Recurring: N/A
 
 ## Support
 
 For support with the following, see:
 
-* Payment: submit an issue on [vipps-magento GitHub](https://github.com/vippsas/vipps-magento).
-* Checkout: submit an issue on [vipps-checkout-magento GitHub](https://github.com/vippsas/vipps-checkout-magento).
-* Login: submit an issue on [vipps-login-magento GitHub](https://github.com/vippsas/vipps-login-magento)
+* Payment: Submit an issue on [vipps-magento GitHub](https://github.com/vippsas/vipps-magento). Documentation on [GitHub Wiki](https://github.com/vippsas/vipps-magento/wiki/Documentation).
+* Checkout: Submit an issue on [vipps-checkout-magento GitHub](https://github.com/vippsas/vipps-checkout-magento).
+* Login: Submit an issue on [vipps-login-magento GitHub](https://github.com/vippsas/vipps-login-magento).  Documentation on [GitHub Wiki](https://github.com/vippsas/vipps-login-magento/wiki/Technical-User-Guide#introduction).
 
 For Vipps-related help, see [contact us](https://developer.vippsmobilepay.com/docs/vipps-developers/contact).
 

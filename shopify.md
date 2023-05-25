@@ -15,10 +15,10 @@ END_METADATA -->
 For information (in Norwegian), see [Shopify on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/shopify/).
 
 
-## Types of plugins
+## Plugins
 
-* Payment: [vipps-shopify](https://github.com/vippsas/vipps-shopify)
-* Checkout for Shopify: [vipps-checkout-shopify](https://apps.shopify.com/vipps-checkout?locale=nb)
+* Payment: [Vipps for Shopify](https://github.com/vippsas/vipps-shopify)
+* Checkout: [Vipps Checkout for Shopify](https://apps.shopify.com/vipps-checkout?locale=nb)
 * Recurring: N/A
 * Login: N/A
 

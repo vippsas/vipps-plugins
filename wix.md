@@ -15,9 +15,9 @@ END_METADATA -->
 For information (in Norwegian), see [WooCommerce on vipps.no](https://vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/Wix/).
 
 
-## Types of plugins
+## Plugins
 
-* Payment: [vipps-wix](https://github.com/vippsas/vipps-wix)
+* Payment: [Vipps for Wix](https://github.com/vippsas/vipps-wix)
 * Recurring: N/A
 * Login: N/A
 

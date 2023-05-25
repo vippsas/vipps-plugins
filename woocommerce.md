@@ -14,10 +14,10 @@ END_METADATA -->
 
 For information (in Norwegian), see [WooCommerce on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/woocommerce/).
 
-## Types of plugins
+## Plugins
 
-* Payment and Checkout: [vipps-woocommerce](https://github.com/vippsas/vipps-woocommerce)
-* Recurring: [vipps-recurring-woocommerce](https://github.com/vippsas/vipps-recurring-woocommerce)
+* Payment and Checkout: [Vipps for WooCommerce](https://github.com/vippsas/vipps-woocommerce)
+* Recurring: [Vipps Recurring Payments for WooCommerce](https://github.com/vippsas/vipps-recurring-woocommerce)
 * Login: N/A (Recommend using the [WordPress platform](wordpress.md)).
 
 ## Support

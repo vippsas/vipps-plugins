@@ -14,9 +14,9 @@ END_METADATA -->
 
 For information (in Norwegian), see [Wordpress on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/woocommerce/).
 
-## Types of plugins
+## Plugins
 
-* Login: [vipps-login-wordpress](https://github.com/vippsas/vipps-login-wordpress)
+* Login: [Log in with Vipps for WordPress and WooCommerce](https://github.com/vippsas/vipps-login-wordpress)
 * Payment and recurring: N/A (Recommend using the [WooCommerce](woocommerce.md) platform).
 
 ## Support

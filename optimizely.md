@@ -17,11 +17,11 @@ Optimizely was formerly known as *Episerver*.
 
 For more information in Norwegian, see [Optimizely on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/episerver/).
 
-## Types of plugins
+## Plugins
 
-* Payment: [vipps-episerver](https://github.com/vippsas/vipps-episerver)
-* Recurring: N/A  
-* Login: [vipps-login-dotnet](https://github.com/vippsas/vipps-login-dotnet)
+* Payment: [Vipps payments and Vipps Express Checkout for Optimizely](https://github.com/vippsas/vipps-episerver)
+* Login: [Vipps Log In for ASP.NET and Episerver](https://github.com/vippsas/vipps-login-dotnet)
+* Recurring: N/A
 
 ## Support
 

@@ -14,18 +14,18 @@ END_METADATA -->
 
 For information (in Norwegian), see [Drupal on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/drupal/).
 
-## Types of plugins
+## Plugins
 
-* Payment: [vipps-drupal](https://github.com/vippsas/vipps-drupal)
-* Recurring: [vipps-recurring-drupal](https://github.com/vippsas/vipps-recurring-drupal)
-* Login: [vipps-login-drupal](https://github.com/vippsas/vipps-login-drupal)
+* Payment: [Commerce Vipps](https://github.com/vippsas/vipps-drupal)
+* Recurring: [Vipps recurring payments](https://github.com/vippsas/vipps-recurring-drupal)
+* Login: [Vipps Login for Drupal](https://github.com/vippsas/vipps-login-drupal)
 * Vipps Checkout: *Coming soon*
 
 ## Support
 
 For support with the following, see:
 
-* Payment: submit an issue on [vipps-drupal GitHub](https://github.com/vippsas/vipps-drupal)
-* Recurring: submit an issue on [vipps-recurring-drupal GitHub](https://github.com/vippsas/vipps-recurring-drupal)
-* Login: submit an issue on [vipps-login-drupal GitHub](https://github.com/vippsas/vipps-login-drupal)
+* Payment: submit an issue on [Commerce Vipps on GitHub](https://github.com/vippsas/vipps-drupal)
+* Recurring: submit an issue on [Vipps recurring payments on GitHub](https://github.com/vippsas/vipps-recurring-drupal)
+* Login: submit an issue on [Vipps Login for Drupal on GitHub](https://github.com/vippsas/vipps-login-drupal)
 * Vipps Checkout: *Coming soon*
