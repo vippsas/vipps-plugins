@@ -1,7 +1,5 @@
 <!-- START_METADATA
 ---
-title: Shopify
-sidebar_label: Overview
 hide_table_of_contents: true
 pagination_next: null
 pagination_prev: null
