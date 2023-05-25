@@ -21,6 +21,4 @@ For information (in Norwegian), see [Wordpress on vipps.no](https://www.vipps.no
 
 ## Support
 
-For support with the following, see:
-
-* Login: See [wordpress.org: Login with Vipps](https://wordpress.org/support/plugin/login-with-vipps/)
+For support, see [Login with Vipps](https://wordpress.org/support/plugin/login-with-vipps/) on WordPress.

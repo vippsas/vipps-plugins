@@ -23,6 +23,4 @@ For information (in Norwegian), see [WooCommerce on vipps.no](https://vipps.no/p
 
 ## Support
 
-For support with the following, see:
-
-* Payment: [Vipps for Wix support](https://crude.no/vipps-wix-support/)
+For support, see [Vipps for Wix support](https://crude.no/vipps-wix-support/).

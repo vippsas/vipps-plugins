@@ -21,11 +21,12 @@ For information (in Norwegian), see [Drupal on vipps.no](https://www.vipps.no/pr
 * Login: [Vipps Login for Drupal](https://github.com/vippsas/vipps-login-drupal)
 * Vipps Checkout: *Coming soon*
 
+<!--
 ## Support
 
 For support with the following, see:
 
-* Payment: submit an issue on [Commerce Vipps on GitHub](https://github.com/vippsas/vipps-drupal)
-* Recurring: submit an issue on [Vipps recurring payments on GitHub](https://github.com/vippsas/vipps-recurring-drupal)
-* Login: submit an issue on [Vipps Login for Drupal on GitHub](https://github.com/vippsas/vipps-login-drupal)
-* Vipps Checkout: *Coming soon*
+* Payment: [Submit an issue at vipps-drupal on GitHub](https://github.com/vippsas/vipps-drupal).
+* Recurring: [Submit an issue at vipps-recurring-drupal on GitHub](https://github.com/vippsas/vipps-recurring-drupal).
+* Login: [Submit an issue at vipps-login-drupal on GitHub](https://github.com/vippsas/vipps-login-drupal).
+-->

@@ -24,11 +24,9 @@ For information (in Norwegian), see [Shopify on vipps.no](https://www.vipps.no/p
 
 ## Support
 
-For support with the following, see:
+For support, see the [Vipps for Shopify support system](https://vipps-shopify.atlassian.net/servicedesk/customer/portal/3).
 
-* Payment and Checkout: [Vipps for Shopify Support support system](https://vipps-shopify.atlassian.net/servicedesk/customer/portal/3)
-
-**Important deprecation notice!** Shopify has changed their APIs and the previous
+**Important deprecation notice:** Shopify has changed their APIs and the previous
 Vipps app is no longer supported after July 31, 2022. You will have to install a
 new Vipps app to be able to support Vipps payments. Remember to capture/refund/cancel
 all existing orders before installing the new app. It is also possible to manually

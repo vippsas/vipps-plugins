@@ -23,9 +23,11 @@ For more information in Norwegian, see [Optimizely on vipps.no](https://www.vipp
 * Login: [Vipps Log In for ASP.NET and Episerver](https://github.com/vippsas/vipps-login-dotnet)
 * Recurring: N/A
 
+<!--
 ## Support
 
 For support with the following, see:
 
-* Payment: submit an issue on [vipps-magento GitHub](https://github.com/vippsas/vipps-episerver)
-* Login: submit an issue on [vipps-login-dotnet](https://github.com/vippsas/vipps-login-dotnet)
+* Payment: [Submit an issue at vipps-magento on GitHub](https://github.com/vippsas/vipps-episerver).
+* Login: [Submit an issue at vipps-login-dotnet on GitHub](https://github.com/vippsas/vipps-login-dotnet).
+-->
