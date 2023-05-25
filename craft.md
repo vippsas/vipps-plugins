@@ -8,11 +8,12 @@ pagination_prev: null
 ---
 END_METADATA -->
 
-# Craft Commerce plugin platform
+# Craft Commerce platform
+
+For information in Norwegian, see [Craft on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/craft/).
 
 ![Craft text](images/logo-craft-cms.svg)
 
-For more information (in Norwegian), see [Craft on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/craft/).
 
 ## Plugins
 

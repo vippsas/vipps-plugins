@@ -10,9 +10,9 @@ END_METADATA -->
 
 # WordPress
 
-![Wordpress logo](images/wordpress.png)
+For information in Norwegian, see [Wordpress on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/woocommerce/).
 
-For information (in Norwegian), see [Wordpress on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/woocommerce/).
+![Wordpress logo](images/wordpress.png)
 
 ## Plugins
 

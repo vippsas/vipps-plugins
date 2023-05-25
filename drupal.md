@@ -8,11 +8,11 @@ pagination_prev: null
 ---
 END_METADATA -->
 
-# Drupal
+# Drupal platform
+
+For information in Norwegian, see [Drupal on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/drupal/).
 
 ![Drupal logo](images/drupal.png)
-
-For information (in Norwegian), see [Drupal on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/drupal/).
 
 ## Plugins
 

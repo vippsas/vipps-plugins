@@ -10,9 +10,9 @@ END_METADATA -->
 
 # Magento
 
-![Magento logo](images/magento.png)
+For information in Norwegian, see [Magento on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/magento/).
 
-For information (in Norwegian), see [Magento on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/magento/).
+![Magento logo](images/magento.png)
 
 ## Plugins
 

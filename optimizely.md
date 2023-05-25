@@ -10,9 +10,6 @@ END_METADATA -->
 
 # Optimizely
 
-
-![Episerver logo](images/episerver.png)
-
 Optimizely was formerly known as *Episerver*.
 
 For more information in Norwegian, see [Optimizely on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/episerver/).
