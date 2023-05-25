@@ -8,7 +8,7 @@ END_METADATA -->
 
 # Shopify
 
-![Shopify logo](../images/shopify.png)
+![Shopify logo](images/shopify.png)
 
 For information (in Norwegian), see [Shopify on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/shopify/).
 

@@ -34,15 +34,13 @@ These plugins can be used with
 [Login](https://www.vipps.no/produkter-og-tjenester/bedrift/logg-inn-med-vipps/logg-inn-med-vipps/).
 
 
-| Platform                               | Payment | Checkout | Recurring  | Login | Support |
-| -------------------------------------- | ------- | -------- |----------- | ----- | --------|
-| [Craft Commerce](./craft/README.md)    | -       | -        | -          | X     |    X    |
-| [Drupal](./drupal/README.md)           | X       | -        | X          | X     |    X    |
-| [Magento](./magento/README.md)         | X       | X        | -          | X     |    X    |
-| [Optimizely](./optimizely/README.md)   | X       | -        | -          | X     |    -    |
-| [Shopify](./shopify/README.md)         | X       | X        | -          | -     |    X    |
-| [Wix](./wix/README.md)                 | X       | -        | -          | -     |    X    |
-| [WooCommerce](./woocommerce/README.md) | X       | X        | X          | -     |    X    |
-| [WordPress](./wordpress/README.md)     | -       | -        | -          | X     |    X    |
-
-
+| Platform                      | Payment | Checkout | Recurring  | Login | Support |
+| ----------------------------- | ------- | -------- |----------- | ----- | --------|
+| [Craft Commerce](craft.md)    | -       | -        | -          | X     |    X    |
+| [Drupal](drupal.md)           | X       | -        | X          | X     |    X    |
+| [Magento](magento.md)         | X       | X        | -          | X     |    X    |
+| [Optimizely](optimizely.md)   | X       | -        | -          | X     |    -    |
+| [Shopify](shopify.md)         | X       | X        | -          | -     |    X    |
+| [Wix](wix.md)                 | X       | -        | -          | -     |    X    |
+| [WooCommerce](woocommerce.md) | X       | X        | X          | -     |    X    |
+| [WordPress](wordpress.md)     | -       | -        | -          | X     |    X    |

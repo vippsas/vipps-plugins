@@ -12,12 +12,12 @@ END_METADATA -->
 
 # Checklist for developing Vipps plugins
 
-Follow these guidelines while creating plugin modules for Vipps. These are defined to minimize manual support. 
+Follow these guidelines while creating plugin modules for Vipps. These are defined to minimize manual support.
 
 
 ## API documentation
 
-See: [Getting started](https://developer.vippsmobilepay.com/docs/vipps-developers/getting-started).
+See: [Getting started](https://developer.vippsmobilepay.com/docs/vipps-developers/getting-started)
 
 
 ## Plugin Checklist

@@ -8,7 +8,7 @@ END_METADATA -->
 
 # Craft Commerce
 
-![Craft text](../images/logo-craft-cms.svg)
+![Craft text](images/logo-craft-cms.svg)
 
 For more information (in Norwegian), see [Craft on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/craft/).
 

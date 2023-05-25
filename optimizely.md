@@ -9,7 +9,7 @@ END_METADATA -->
 # Optimizely
 
 
-![Episerver logo](../images/episerver.png)
+![Episerver logo](images/episerver.png)
 
 Optimizely was formerly known as *Episerver*.
 

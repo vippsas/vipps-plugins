@@ -8,7 +8,7 @@ END_METADATA -->
 
 # Wix
 
-![Wix logo](../images/wix.png)
+![Wix logo](images/wix.png)
 
 For information (in Norwegian), see [WooCommerce on vipps.no](https://vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/Wix/).
 

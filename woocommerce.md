@@ -8,7 +8,7 @@ END_METADATA -->
 
 # WooCommerce
 
-![WooCommerce logo](../images/woocommerce.png)
+![WooCommerce logo](images/woocommerce.png)
 
 For information (in Norwegian), see [WooCommerce on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/woocommerce/).
 
