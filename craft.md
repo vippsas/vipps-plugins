@@ -22,4 +22,6 @@ For more information (in Norwegian), see [Craft on vipps.no](https://www.vipps.n
 
 For support with the following, see:
 
-* Login: [https://github.com/elleracompany/vipps-craft-login/issues](https://github.com/elleracompany/vipps-craft-login/issues)
+* [Craft-related issues](https://craftcms.com/community)
+* [Plugin-related issues](https://github.com/elleracompany/vipps-craft-login/issues)
+* [Vipps-related issues](https://developer.vippsmobilepay.com/docs/vipps-developers/contact/)
