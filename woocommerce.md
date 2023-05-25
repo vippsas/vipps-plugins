@@ -1,7 +1,7 @@
 <!-- START_METADATA
 ---
-title: WooCommerce plugin platform
-sidebar_label: WooCommerce
+title: WooCommerce
+sidebar_label: Overview
 hide_table_of_contents: true
 pagination_next: null
 pagination_prev: null
@@ -11,8 +11,6 @@ END_METADATA -->
 # WooCommerce
 
 For information in Norwegian, see [WooCommerce on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/woocommerce/).
-
-![WooCommerce logo](images/woocommerce.png)
 
 ## Plugins
 

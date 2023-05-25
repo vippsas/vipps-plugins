@@ -1,7 +1,7 @@
 <!-- START_METADATA
 ---
-title: Optimizely plugin platform
-sidebar_label: Optimizely
+title: Optimizely
+sidebar_label: Overview
 hide_table_of_contents: true
 pagination_next: null
 pagination_prev: null

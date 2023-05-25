@@ -1,7 +1,7 @@
 <!-- START_METADATA
 ---
-title: WordPress plugin platform
-sidebar_label: WordPress
+title: WordPress
+sidebar_label: Overview
 hide_table_of_contents: true
 pagination_next: null
 pagination_prev: null
@@ -11,8 +11,6 @@ END_METADATA -->
 # WordPress
 
 For information in Norwegian, see [Wordpress on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/woocommerce/).
-
-![Wordpress logo](images/wordpress.png)
 
 ## Plugins
 

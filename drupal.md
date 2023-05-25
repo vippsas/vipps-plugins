@@ -1,18 +1,16 @@
 <!-- START_METADATA
 ---
-title: Drupal plugin platform
-sidebar_label: Drupal
+title: Drupal
+sidebar_label: Overview
 hide_table_of_contents: true
 pagination_next: null
 pagination_prev: null
 ---
 END_METADATA -->
 
-# Drupal platform
+# Drupal
 
 For information in Norwegian, see [Drupal on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/drupal/).
-
-![Drupal logo](images/drupal.png)
 
 ## Plugins
 

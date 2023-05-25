@@ -1,7 +1,7 @@
 <!-- START_METADATA
 ---
-title: Magento plugin platform
-sidebar_label: Magento
+title: Magento
+sidebar_label: Overview
 hide_table_of_contents: true
 pagination_next: null
 pagination_prev: null
@@ -11,8 +11,6 @@ END_METADATA -->
 # Magento
 
 For information in Norwegian, see [Magento on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/magento/).
-
-![Magento logo](images/magento.png)
 
 ## Plugins
 

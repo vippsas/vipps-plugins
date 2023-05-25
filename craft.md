@@ -1,19 +1,16 @@
 <!-- START_METADATA
 ---
-title: Craft Commerce plugin platform
-sidebar_label: Craft Commerce
+title: Craft Commerce
+sidebar_label: Overview
 hide_table_of_contents: true
 pagination_next: null
 pagination_prev: null
 ---
 END_METADATA -->
 
-# Craft Commerce platform
+# Craft Commerce
 
 For information in Norwegian, see [Craft on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/craft/).
-
-![Craft text](images/logo-craft-cms.svg)
-
 
 ## Plugins
 

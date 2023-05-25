@@ -1,7 +1,7 @@
 <!-- START_METADATA
 ---
-title: Shopify plugin platform
-sidebar_label: Shopify
+title: Shopify
+sidebar_label: Overview
 hide_table_of_contents: true
 pagination_next: null
 pagination_prev: null
@@ -11,9 +11,6 @@ END_METADATA -->
 # Shopify
 
 For information in Norwegian, see [Shopify on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/shopify/).
-
-![Shopify logo](images/shopify.png)
-
 
 ## Plugins
 
