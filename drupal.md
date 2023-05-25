@@ -1,5 +1,7 @@
 <!-- START_METADATA
 ---
+title: Drupal plugin platform
+sidebar_label: Drupal
 hide_table_of_contents: true
 pagination_next: null
 pagination_prev: null

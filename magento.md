@@ -1,5 +1,7 @@
 <!-- START_METADATA
 ---
+title: Magento plugin platform
+sidebar_label: Magento
 hide_table_of_contents: true
 pagination_next: null
 pagination_prev: null

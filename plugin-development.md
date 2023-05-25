@@ -1,18 +1,17 @@
 <!-- START_METADATA
 ---
-title: Plugins checklist
 sidebar_label: Checklist
 sidebar_position: 10
-description: Checklist for developing a Vipps plugin
+description: Checklist for developing a plugin
 pagination_next: null
 pagination_prev: null
 ---
 END_METADATA -->
 
 
-# Checklist for developing Vipps plugins
+# Checklist for developing a plugin
 
-Follow these guidelines while creating plugin modules for Vipps. These are defined to minimize manual support.
+Follow these guidelines while creating plugin modules. These are defined to minimize manual support.
 
 
 ## API documentation

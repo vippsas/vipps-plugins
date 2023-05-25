@@ -1,12 +1,14 @@
 <!-- START_METADATA
 ---
+title: Craft Commerce plugin platform
+sidebar_label: Craft Commerce
 hide_table_of_contents: true
 pagination_next: null
 pagination_prev: null
 ---
 END_METADATA -->
 
-# Craft Commerce
+# Craft Commerce plugin platform
 
 ![Craft text](images/logo-craft-cms.svg)
 
