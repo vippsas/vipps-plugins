@@ -17,7 +17,7 @@ For information (in Norwegian), see [Wordpress on vipps.no](https://www.vipps.no
 ## Types of plugins
 
 * Login: [vipps-login-wordpress](https://github.com/vippsas/vipps-login-wordpress)
-* Payment and recurring: N/A (Recommend using the [WooCommerce](../woocommerce/README.md) platform).
+* Payment and recurring: N/A (Recommend using the [WooCommerce](woocommerce.md) platform).
 
 ## Support
 

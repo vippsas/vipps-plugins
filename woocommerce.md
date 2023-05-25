@@ -18,7 +18,7 @@ For information (in Norwegian), see [WooCommerce on vipps.no](https://www.vipps.
 
 * Payment and Checkout: [vipps-woocommerce](https://github.com/vippsas/vipps-woocommerce)
 * Recurring: [vipps-recurring-woocommerce](https://github.com/vippsas/vipps-recurring-woocommerce)
-* Login: N/A (Recommend using the [WordPress platform](../wordpress/README.md)).
+* Login: N/A (Recommend using the [WordPress platform](wordpress.md)).
 
 ## Support
 
