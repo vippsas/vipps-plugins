@@ -32,13 +32,14 @@ The following plugin platforms can be used with
 [Login](https://www.vipps.no/produkter-og-tjenester/bedrift/logg-inn-med-vipps/logg-inn-med-vipps/).
 
 
+
 | Platform                      | Payment | Checkout | Recurring  | Login |
 | ----------------------------- | ------- | -------- |----------- | ----- |
-| [Craft Commerce](craft.md)    | -       | -        | -          | X     |
-| [Drupal](drupal.md)           | X       | -        | X          | X     |
-| [Magento](magento.md)         | X       | X        | -          | X     |
-| [Optimizely](optimizely.md)   | X       | -        | -          | X     |
-| [Shopify](shopify.md)         | X       | X        | -          | -     |
-| [Wix](wix.md)                 | X       | -        | -          | -     |
-| [WooCommerce](woocommerce.md) | X       | X        | X          | -     |
-| [WordPress](wordpress.md)     | -       | -        | -          | X     |
+| [Craft Commerce](craft.md)    |        |          |           |   ✅  |
+| [Drupal](drupal.md)           |   ✅   |          |    ✅     |   ✅  |
+| [Magento](magento.md)         |   ✅   |    ✅    |           |   ✅  |
+| [Optimizely](optimizely.md)   |   ✅   |          |           |   ✅  |
+| [Shopify](shopify.md)         |   ✅   |    ✅    |           |       |
+| [Wix](wix.md)                 |   ✅   |          |           |       |
+| [WooCommerce](woocommerce.md) |   ✅   |    ✅    |    ✅     |       |
+| [WordPress](wordpress.md)     |        |          |           |   ✅  |
