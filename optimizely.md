@@ -14,15 +14,14 @@ For more information in Norwegian, see [Optimizely on vipps.no](https://www.vipp
 
 ## Plugins
 
-* Payment: [Vipps payments and Vipps Express Checkout for Optimizely](https://github.com/vippsas/vipps-episerver)
-* Login: [Vipps Log In for ASP.NET and Episerver](https://github.com/vippsas/vipps-login-dotnet)
+* Payment: [Vipps payments and Vipps Express Checkout for Optimizely](https://developer.vippsmobilepay.com/docs/plugins-ext/episerver/)
+* Login: [Vipps Log In for ASP.NET and Episerver](https://developer.vippsmobilepay.com/docs/plugins-ext/login-dotnet/)
 * Recurring: N/A
 
-<!--
+
 ## Support
 
 For support with the following, see:
 
-* Payment: [Submit an issue at vipps-magento on GitHub](https://github.com/vippsas/vipps-episerver).
-* Login: [Submit an issue at vipps-login-dotnet on GitHub](https://github.com/vippsas/vipps-login-dotnet).
--->
+* Payment: [Submit an issue at vipps-episerver on GitHub](https://github.com/vippsas/vipps-episerver)
+* Login: [Submit an issue at vipps-login-dotnet on GitHub](https://github.com/vippsas/vipps-login-dotnet)

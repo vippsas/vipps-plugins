@@ -12,17 +12,16 @@ For information in Norwegian, see [Drupal on vipps.no](https://www.vipps.no/prod
 
 ## Plugins
 
-* Payment: [Commerce Vipps](https://github.com/vippsas/vipps-drupal)
-* Recurring: [Vipps recurring payments](https://github.com/vippsas/vipps-recurring-drupal)
-* Login: [Vipps Login for Drupal](https://github.com/vippsas/vipps-login-drupal)
 * Vipps Checkout: *Coming soon*
+* Payment: [Commerce Vipps](https://developer.vippsmobilepay.com/docs/plugins-ext/drupal/)
+* Recurring: [Vipps recurring payments](https://developer.vippsmobilepay.com/docs/plugins-ext/recurring-drupal/)
+* Login: [Vipps Login for Drupal](https://developer.vippsmobilepay.com/docs/plugins-ext/login-drupal/)
 
-<!--
+
 ## Support
 
 For support with the following, see:
 
-* Payment: [Submit an issue at vipps-drupal on GitHub](https://github.com/vippsas/vipps-drupal).
-* Recurring: [Submit an issue at vipps-recurring-drupal on GitHub](https://github.com/vippsas/vipps-recurring-drupal).
-* Login: [Submit an issue at vipps-login-drupal on GitHub](https://github.com/vippsas/vipps-login-drupal).
--->
+* Payment: [Submit an issue at vipps-drupal on GitHub](https://github.com/vippsas/vipps-drupal)
+* Recurring: [Submit an issue at vipps-recurring-drupal on GitHub](https://github.com/vippsas/vipps-recurring-drupal)
+* Login: [Submit an issue at vipps-login-drupal on GitHub](https://github.com/vippsas/vipps-login-drupal)

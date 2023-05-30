@@ -12,9 +12,9 @@ For information in Norwegian, see [Magento on vipps.no](https://www.vipps.no/pro
 
 ## Plugins
 
-* Payment: [Vipps Payment Module for Magento](https://github.com/vippsas/vipps-magento)
-* Checkout: [Vipps Checkout Module for Magento](https://github.com/vippsas/vipps-checkout-magento)
-* Login: [Vipps Login Module for Magento](https://github.com/vippsas/vipps-login-magento)
+* Checkout: [Vipps Checkout Module for Magento](https://developer.vippsmobilepay.com/docs/plugins-ext/checkout-magento)
+* Payment: [Vipps Payment Module for Magento](https://developer.vippsmobilepay.com/docs/plugins-ext/magento/)
+* Login: [Vipps Login Module for Magento](https://developer.vippsmobilepay.com/docs/plugins-ext/login-magento/)
 * Recurring: N/A
 
 ## Support

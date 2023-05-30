@@ -12,8 +12,9 @@ For information in Norwegian, see [Wordpress on vipps.no](https://www.vipps.no/p
 
 ## Plugins
 
-* Login: [Log in with Vipps for WordPress and WooCommerce](https://github.com/vippsas/vipps-login-wordpress)
-* Payment and recurring: N/A (Recommend using the [WooCommerce](woocommerce.md) platform).
+* Payment, checkout and recurring: See [WooCommerce](https://developer.vippsmobilepay.com/docs/plugins-ext/woocommerce/)
+* Login: [Log in with Vipps for WordPress and WooCommerce](https://developer.vippsmobilepay.com/docs/plugins-ext/login-wordpress/)
+
 
 ## Support
 
