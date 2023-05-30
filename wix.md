@@ -13,7 +13,7 @@ For information in Norwegian, see [WooCommerce on vipps.no](https://vipps.no/pro
 
 ## Plugins
 
-* Payment: [Vipps for Wix](https://github.com/vippsas/vipps-wix)
+* Payment: [Vipps for Wix](https://developer.vippsmobilepay.com/docs/plugins-ext/wix/)
 * Recurring: N/A
 * Login: N/A
 

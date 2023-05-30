@@ -8,11 +8,12 @@ END_METADATA -->
 
 # Craft Commerce
 
-For information in Norwegian, see [Craft on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/craft/).
+For information in Norwegian, see
+[Craft on vipps.no](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/craft/).
 
 ## Plugins
 
-* Login: [Vipps Login for CraftCMS](https://github.com/vippsas/vipps-craft-login)
+* Login: [Vipps Login for CraftCMS](https://developer.vippsmobilepay.com/docs/plugins-ext/craft-login/)
 * Payment: N/A
 * Recurring: N/A
 
