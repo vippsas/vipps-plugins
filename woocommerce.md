@@ -14,11 +14,11 @@ For information in Norwegian, see [WooCommerce on vipps.no](https://www.vipps.no
 
 * Payment and Checkout: [Vipps for WooCommerce](https://developer.vippsmobilepay.com/docs/plugins-ext/woocommerce/)
 * Recurring: [Vipps Recurring Payments for WooCommerce](https://developer.vippsmobilepay.com/docs/plugins-ext/recurring-woocommerce/)
-* Login: See [WordPress](https://developer.vippsmobilepay.com/docs/plugins-ext/login-wordpress/)
+* Login: [Log in with Vipps for WordPress and WooCommerce](https://developer.vippsmobilepay.com/docs/plugins-ext/login-wordpress/)
 
 ## Support
 
 For support with the following, see:
 
-* Payment and Checkout: [Plugin: Pay with Vipps for WooCommerce](https://wordpress.org/support/plugin/woo-vipps/) on WordPress
-* Recurring: [Plugin: Vipps Recurring Payments for WooCommerce](https://wordpress.org/support/plugin/vipps-recurring-payments-gateway-for-woocommerce/) on WordPress
+* Payment and Checkout: [Pay with Vipps for WooCommerce](https://wordpress.org/support/plugin/woo-vipps/) on WordPress.
+* Recurring: [Vipps Recurring Payments for WooCommerce](https://wordpress.org/support/plugin/vipps-recurring-payments-gateway-for-woocommerce/) on WordPress.

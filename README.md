@@ -41,5 +41,5 @@ The following plugin platforms can be used with
 | [Optimizely](optimizely.md)   |   ✅   |          |           |   ✅  |
 | [Shopify](shopify.md)         |   ✅   |    ✅    |           |       |
 | [Wix](wix.md)                 |   ✅   |          |           |       |
-| [WooCommerce](woocommerce.md) |   ✅   |    ✅    |    ✅     |       |
-| [WordPress](wordpress.md)     |        |          |           |   ✅  |
+| [WooCommerce](woocommerce.md) |   ✅   |    ✅    |    ✅     |   ✅  |
+| [WordPress](wordpress.md)     |        |           |           |   ✅  |
