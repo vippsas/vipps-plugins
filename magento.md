@@ -22,12 +22,10 @@ For information in Norwegian, see [Magento on vipps.no](https://www.vipps.no/pro
 For support with the following, see:
 
 * Payment:
-  * [Technical User Guide on GitHub Wiki](https://github.com/vippsas/vipps-magento/wiki/Documentation)
   * [Submit an issue at vipps-magento on GitHub](https://github.com/vippsas/vipps-magento)
 * Checkout:
   * [Submit an issue at vipps-checkout-magento on GitHub](https://github.com/vippsas/vipps-checkout-magento)
 * Login:
-  * [Technical User Guide on GitHub Wiki](https://github.com/vippsas/vipps-login-magento/wiki/Technical-User-Guide#introduction)
   * [Submit an issue at vipps-login-magento on GitHub](https://github.com/vippsas/vipps-login-magento)
 
 For Vipps-related help, see [contact us](https://developer.vippsmobilepay.com/docs/vipps-developers/contact).
