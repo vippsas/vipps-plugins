@@ -2,14 +2,14 @@
 ---
 sidebar_label: Checklist
 sidebar_position: 10
-description: Checklist for developing a plugin
+description: Plugin development checklist
 pagination_next: null
 pagination_prev: null
 ---
 END_METADATA -->
 
 
-# Checklist for developing a plugin
+# Plugin development checklist
 
 Follow these guidelines while creating plugin modules. These are defined to minimize manual support.
 
