@@ -13,7 +13,7 @@ For information in Norwegian, see
 
 ## Plugins
 
-* Checkout: [Vipps Checkout for Shopify](https://developer.vippsmobilepay.com/docs/plugins-ext/checkout-shopify/)
+* Checkout: [Checkout for Shopify](https://developer.vippsmobilepay.com/docs/plugins-ext/checkout-shopify/)
 * Single payment: [Vipps for Shopify](https://developer.vippsmobilepay.com/docs/plugins-ext/shopify/)
 * Recurring: N/A
 * Login: N/A

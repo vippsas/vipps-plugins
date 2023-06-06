@@ -14,10 +14,9 @@ For more information in Norwegian, see [Optimizely on vipps.no](https://www.vipp
 
 ## Plugins
 
-* Payment: [Vipps payments and Vipps Express Checkout for Optimizely](https://developer.vippsmobilepay.com/docs/plugins-ext/episerver/)
-* Login: [Vipps Log In for ASP.NET and Episerver](https://developer.vippsmobilepay.com/docs/plugins-ext/login-dotnet/)
+* Payment: [Payments and Express Checkout for Optimizely](https://developer.vippsmobilepay.com/docs/plugins-ext/episerver/)
+* Login: [Login for ASP.NET and Episerver](https://developer.vippsmobilepay.com/docs/plugins-ext/login-dotnet/)
 * Recurring: N/A
-
 
 ## Support
 

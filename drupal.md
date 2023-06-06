@@ -12,10 +12,10 @@ For information in Norwegian, see [Drupal on vipps.no](https://www.vipps.no/prod
 
 ## Plugins
 
-* Vipps Checkout: *Coming soon*
+* Checkout: *Coming soon*
 * Payment: [Commerce Vipps](https://developer.vippsmobilepay.com/docs/plugins-ext/drupal/)
-* Recurring: [Vipps recurring payments](https://developer.vippsmobilepay.com/docs/plugins-ext/recurring-drupal/)
-* Login: [Vipps Login for Drupal](https://developer.vippsmobilepay.com/docs/plugins-ext/login-drupal/)
+* Recurring: [Recurring payments for Drupal](https://developer.vippsmobilepay.com/docs/plugins-ext/recurring-drupal/)
+* Login: [Login for Drupal](https://developer.vippsmobilepay.com/docs/plugins-ext/login-drupal/)
 
 
 ## Support
