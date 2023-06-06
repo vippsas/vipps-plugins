@@ -13,7 +13,7 @@ For information in Norwegian, see
 
 ## Plugins
 
-* Login: [Vipps Login for CraftCMS](https://developer.vippsmobilepay.com/docs/plugins-ext/craft-login/)
+* Login: [Vipps Login for Craft CMS](https://developer.vippsmobilepay.com/docs/plugins-ext/craft-login/)
 * Payment: N/A
 * Recurring: N/A
 
