@@ -28,8 +28,6 @@ For support with the following, see:
 * Login:
   * [Submit an issue at vipps-login-magento on GitHub](https://github.com/vippsas/vipps-login-magento)
 
-For Vipps help, see [contact us](https://developer.vippsmobilepay.com/docs/vipps-developers/contact).
-
 **Please note** The Vipps Payment Module for [Magento 1](https://github.com/vippsas/vipps-magento-v1) is no longer supported. Vipps will no longer do updates or patches to the module. Run this code at your own risk.
 
 ## Related topics

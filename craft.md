@@ -23,4 +23,3 @@ For support with the following, see:
 
 * [Craft-related issues](https://craftcms.com/community)
 * [Plugin-related issues](https://github.com/elleracompany/vipps-craft-login/issues)
-* [Vipps-related issues](https://developer.vippsmobilepay.com/docs/vipps-developers/contact/)

@@ -17,11 +17,10 @@ For information in Norwegian, see [Drupal on vipps.no](https://www.vipps.no/prod
 * Recurring: [Recurring payments for Drupal](https://developer.vippsmobilepay.com/docs/plugins-ext/recurring-drupal/)
 * Login: [Login for Drupal](https://developer.vippsmobilepay.com/docs/plugins-ext/login-drupal/)
 
-
 ## Support
 
 For support with the following, see:
 
-* Payment: [Submit an issue at vipps-drupal on GitHub](https://github.com/vippsas/vipps-drupal)
-* Recurring: [Submit an issue at vipps-recurring-drupal on GitHub](https://github.com/vippsas/vipps-recurring-drupal)
-* Login: [Submit an issue at vipps-login-drupal on GitHub](https://github.com/vippsas/vipps-login-drupal)
+* Payment: [Submit an issue at vipps-drupal on GitHub](https://github.com/vippsas/vipps-drupal).
+* Recurring: [Submit an issue at vipps-recurring-drupal on GitHub](https://github.com/vippsas/vipps-recurring-drupal).
+* Login: [Submit an issue at vipps-login-drupal on GitHub](https://github.com/vippsas/vipps-login-drupal).
