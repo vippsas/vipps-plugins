@@ -49,8 +49,6 @@ The following plugin platforms can be used with
 | [WordPress](wordpress.md)     |        |           |           |   ✅  |
 
 
-
-
 ### Features
 
 <Tabs
@@ -65,21 +63,21 @@ values={[
 
 <TabItem value="Payment">
 
-| Platform                   | Pay with Vipps | feature2 | feature3 | feature4 |
-| -------------------------- | -------------- | -------- |--------- | -------- |
-| [Drupal][drupal]           |       ✅      |          |          |          |
-| [Magento][magento]         |       ✅      |          |          |          |
-| [Optimizely][episerver]    |       ✅      |          |          |          |
-| [Shopify][shopify]         |       ✅      |          |          |          |
-| [Wix][wix]                 |       ✅      |          |          |          |
-| [WooCommerce][woocommerce] |       ✅      |          |          |          |
+| Platform                   | Pay with Vipps | Express Checkout |
+| -------------------------- | -------------- | ---------------- |
+| [Drupal][drupal]           |       ✅      |                  |
+| [Magento][magento]         |       ✅      |        ✅        |
+| [Optimizely][episerver]    |       ✅      |        ✅        |
+| [Shopify][shopify]         |       ✅      |         ✅       |
+| [Wix][wix]                 |       ✅      |                  |
+| [WooCommerce][woocommerce] |       ✅      |        ✅        |
 </TabItem>
 
 <TabItem value="Checkout">
 
 | Platform                      | Pay with Vipps | Pay with Card | Userinfo | Branding | Express Checkout |
 | ----------------------------- | -------------- | ------------- | -------- | -------- | ---------------- |
-| [Magento][checkout-magento]   |       ✅      |    ✅        |    ?     |    ?     |       ?          |
+| [Magento][checkout-magento]   |       ✅      |       ✅     |    ?     |    ?     |       ?          |
 | [Shopify][checkout-shopify]   |       ✅      |      ?        |          |    ✅    |                  |
 | [WooCommerce][woocommerce]    |        ✅     |      ?        |          |           |        ✅       |
 </TabItem>
@@ -105,9 +103,6 @@ values={[
 
 </TabItem>
 </Tabs>
-
-
-
 
 
 ## Plugin development
