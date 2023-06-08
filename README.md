@@ -9,10 +9,12 @@ pagination_prev: null
 ---
 END_METADATA -->
 
-# Plugins
 
-Vipps provides several open source plugins for various web solutions. This page gives an overview, and the sections below have more details.
-We update this table as soon as statuses or plans change.
+import ApiSchema from '@theme/ApiSchema';
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+# Plugins
 
 <!-- START_COMMENT -->
 
@@ -20,6 +22,9 @@ We update this table as soon as statuses or plans change.
 [Vipps MobilePay Technical Documentation](https://developer.vippsmobilepay.com/docs/vipps-plugins).
 
 <!-- END_COMMENT -->
+
+Vipps provides several open source plugins for various web solutions. This page gives an overview, and the sections below have more details.
+We update this table as soon as statuses or plans change.
 
 If you need help with your customer relationship with Vipps, [contact customer service](https://vipps.no/hjelp/vipps/).
 
@@ -32,7 +37,6 @@ The following plugin platforms can be used with
 [Login](https://www.vipps.no/produkter-og-tjenester/bedrift/logg-inn-med-vipps/logg-inn-med-vipps/).
 
 
-
 | Platform                      | Payment | Checkout | Recurring  | Login |
 | ----------------------------- | ------- | -------- |----------- | ----- |
 | [Craft Commerce](craft.md)    |        |          |           |   ✅  |
@@ -43,6 +47,68 @@ The following plugin platforms can be used with
 | [Wix](wix.md)                 |   ✅   |          |           |       |
 | [WooCommerce](woocommerce.md) |   ✅   |    ✅    |    ✅     |   ✅  |
 | [WordPress](wordpress.md)     |        |           |           |   ✅  |
+
+
+
+
+### Features
+
+<Tabs
+defaultValue="Payment"
+groupId="sdk-choice"
+values={[
+{label: 'Payment', value: 'Payment'},
+{label: 'Checkout', value: 'Checkout'},
+{label: 'Recurring', value: 'Recurring'},
+{label: 'Login', value: 'Login'},
+]}>
+
+<TabItem value="Payment">
+
+| Platform                   | Pay with Vipps | feature2 | feature3 | feature4 |
+| -------------------------- | -------------- | -------- |--------- | -------- |
+| [Drupal][drupal]           |       ✅      |          |          |          |
+| [Magento][magento]         |       ✅      |          |          |          |
+| [Optimizely][episerver]    |       ✅      |          |          |          |
+| [Shopify][shopify]         |       ✅      |          |          |          |
+| [Wix][wix]                 |       ✅      |          |          |          |
+| [WooCommerce][woocommerce] |       ✅      |          |          |          |
+</TabItem>
+
+<TabItem value="Checkout">
+
+| Platform                      | Pay with Vipps | Pay with Card | Userinfo | Branding | Express Checkout |
+| ----------------------------- | -------------- | ------------- | -------- | -------- | ---------------- |
+| [Magento][checkout-magento]   |       ✅      |    ✅        |    ?     |    ?     |       ?          |
+| [Shopify][checkout-shopify]   |       ✅      |      ?        |          |    ✅    |                  |
+| [WooCommerce][woocommerce]    |        ✅     |      ?        |          |           |        ✅       |
+</TabItem>
+
+<TabItem value="Recurring">
+
+| Platform                             | Create agreements | Manage agreements | User info |
+| ------------------------------------ | ----------------- | ----------------- |---------- |
+| [Drupal][recurring-drupal]           |    ✅            |                   |           |
+| [WooCommerce][recurring-woocommerce] |     ?             |                   |           |
+
+</TabItem>
+<TabItem value="Login">
+
+| Platform                                   | Sign up | Log in | User info | Link account |
+| ------------------------------------------ | ------- | ------ |---------- | ------------ |
+| [Craft Commerce][craft-login]              |    ✅   |  ✅   |    ✅    |    ✅       |
+| [Drupal][login-drupal]                     |         |   ✅  |           |              |
+| [Magento][login-magento]                   |    ✅   |  ✅   |    ?     |    ✅        |
+| [Optimizely][login-dotnet]                 |     ?   |   ✅  |    ✅    |    ?         |
+| [WooCommerce / WordPress][login-wordpress] |     ✅  |   ✅  |    ✅    |     ✅      |
+
+
+</TabItem>
+</Tabs>
+
+
+
+
 
 ## Plugin development
 
