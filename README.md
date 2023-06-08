@@ -21,7 +21,7 @@ We update this table as soon as statuses or plans change.
 
 <!-- END_COMMENT -->
 
-If you are interested in creating a plugin, see [Checklist for developing Vipps plugins](plugin-development.md).
+If you need help with your customer relationship with Vipps, [contact customer service](https://vipps.no/hjelp/vipps/).
 
 ## Plugin platforms
 
@@ -43,3 +43,7 @@ The following plugin platforms can be used with
 | [Wix](wix.md)                 |   ✅   |          |           |       |
 | [WooCommerce](woocommerce.md) |   ✅   |    ✅    |    ✅     |   ✅  |
 | [WordPress](wordpress.md)     |        |           |           |   ✅  |
+
+## Plugin development
+
+If you are interested in creating a plugin, see [Plugin development checklist](plugin-development.md).
