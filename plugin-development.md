@@ -1,6 +1,6 @@
 <!-- START_METADATA
 ---
-sidebar_label: Checklist
+sidebar_label: Development checklist
 sidebar_position: 10
 description: Plugin development checklist
 pagination_next: null
