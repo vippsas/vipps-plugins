@@ -63,31 +63,31 @@ values={[
 
 <TabItem value="Payment">
 
-| Platform                   | Pay with Vipps | Express Checkout |
-| -------------------------- | -------------- | ---------------- |
-| [Drupal][drupal]           |       ✅      |                  |
-| [Magento][magento]         |       ✅      |        ✅        |
-| [Optimizely][episerver]    |       ✅      |        ✅        |
-| [Shopify][shopify]         |       ✅      |         ✅       |
-| [Wix][wix]                 |       ✅      |                  |
-| [WooCommerce][woocommerce] |       ✅      |        ✅        |
+| Platform                   | Pay with Vipps | Express Checkout | Receipts | Branding | QR codes |
+| -------------------------- | -------------- | ---------------- |----------| ---------|----------|
+| [Drupal][drupal]           |       ✅      |                  |           |          |           |
+| [Magento][magento]         |       ✅      |        ✅        |    ✅   |           |           |
+| [Optimizely][episerver]    |       ✅      |        ✅        |          |          |           |
+| [Shopify][shopify]         |       ✅      |         ✅       |          |          |           |
+| [Wix][wix]                 |       ✅      |                  |          |           |           |
+| [WooCommerce][woocommerce] |       ✅      |        ✅        |    ✅   |     ✅   |     ✅   |
 </TabItem>
 
 <TabItem value="Checkout">
 
-| Platform                      | Pay with Vipps | Pay with Card | Userinfo | Branding | Express Checkout |
-| ----------------------------- | -------------- | ------------- | -------- | -------- | ---------------- |
-| [Magento][checkout-magento]   |       ✅      |       ✅     |    ?     |    ?     |       ?          |
-| [Shopify][checkout-shopify]   |       ✅      |      ?        |          |    ✅    |                  |
-| [WooCommerce][woocommerce]    |        ✅     |      ?        |          |           |        ✅       |
+| Platform                      | Pay with Vipps | Pay with Card |  Branding | Express Checkout | Receipts | QR codes |
+| ----------------------------- | -------------- | ------------- | -------- | ---------------- |----------|----------|
+| [Magento][checkout-magento]   |       ✅      |      ✅       |          |                  |     ✅   |           |
+| [Shopify][checkout-shopify]   |       ✅      |      ✅       |    ✅    |                  |    ✅   |           |
+| [WooCommerce][woocommerce]    |        ✅     |      ✅       |    ✅    |        ✅        |    ✅   |     ✅   |
 </TabItem>
 
 <TabItem value="Recurring">
 
-| Platform                             | Create agreements | Manage agreements | User info |
-| ------------------------------------ | ----------------- | ----------------- |---------- |
-| [Drupal][recurring-drupal]           |    ✅            |                   |           |
-| [WooCommerce][recurring-woocommerce] |     ?             |                   |           |
+| Platform                             | Create agreements | Manage agreements | Campaign types |
+| ------------------------------------ | ----------------- | ----------------- | -------------- |
+| [Drupal][recurring-drupal]           |     ✅           |         ✅        |                |
+| [WooCommerce][recurring-woocommerce] |     ✅           |         ✅        |                |
 
 </TabItem>
 <TabItem value="Login">
@@ -96,13 +96,14 @@ values={[
 | ------------------------------------------ | ------- | ------ |---------- | ------------ |
 | [Craft Commerce][craft-login]              |    ✅   |  ✅   |    ✅    |    ✅       |
 | [Drupal][login-drupal]                     |         |   ✅  |           |              |
-| [Magento][login-magento]                   |    ✅   |  ✅   |    ?     |    ✅        |
-| [Optimizely][login-dotnet]                 |     ?   |   ✅  |    ✅    |    ?         |
-| [WooCommerce / WordPress][login-wordpress] |     ✅  |   ✅  |    ✅    |     ✅      |
+| [Magento][login-magento]                   |    ✅   |  ✅   |          |    ✅        |
+| [Optimizely][login-dotnet]                 |    ✅   |   ✅  |    ✅    |              |
+| [WooCommerce / WordPress][login-wordpress] |    ✅  |   ✅  |    ✅    |     ✅      |
 
 
 </TabItem>
 </Tabs>
+
 
 
 ## Plugin development
