@@ -44,7 +44,7 @@ Add a separate section which includes:
 | Link to Vipps Portal  | Inform the merchant that they can manage their sales units on the Vipps portal. For example: "You can manage your sales unit (e.g., change name and logo), see reports of all payments, etc. on [portal.vipps.no](https://portal.vipps.no)." |
 | Link to Vipps FAQ     | Provide a link to the Vipps FAQs. For example: "For typical questions and answers about Vipps payments and APIs, see the [Vipps FAQs](https://developer.vippsmobilepay.com/docs/vipps-developers/faqs)." |
 | Info about contributing on GitHub | Add to the _issues_ tab on the GitHub repo. |
-| Link to Vipps "help"-pages | "[The Vipps help page](https://vipps.no/hjelp/vipps/)" |
+| Link to Vipps help pages | "[The Vipps help page](https://vipps.no/hjelp/vipps/)" |
 | Link to Vipps customer center for merchants | "If you need help with your customer relationship with Vipps, [Contact Vipps customer service](https://vipps.no/hjelp/vipps/)." |
 | Link to newsletters       | "Vipps has a [technical newsletter](https://developer.vippsmobilepay.com/docs/vipps-developers/newsletters) with news about APIs, etc. We recommend subscribing to it." |
 
