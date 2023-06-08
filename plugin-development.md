@@ -21,7 +21,7 @@ Use this as a guideline to make sure documentation and the required features are
 
 ### Documentation
 
-Your plugin documentation must include:
+Your plugin module must include all the following information:
 
 | Required content  | Comment      |
 |-------------------|--------------|
@@ -36,7 +36,7 @@ Your plugin documentation must include:
 | Changelog         | Detailed release notes for new releases. Do not add cryptic comments about updates, but describe what is new. |
 | FAQ               | A list of frequently asked questions and information about other typical issues related to the platform and module.|
 
-Add a separate section which includes:
+Also include the following support information:
 
 | Required content      | Comment   |
 |-----------------------|-----------|
