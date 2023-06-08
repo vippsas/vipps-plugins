@@ -21,12 +21,9 @@ For information in Norwegian, see [Magento on vipps.no](https://www.vipps.no/pro
 
 For support with the following, see:
 
-* Payment:
-  * [Submit an issue at vipps-magento on GitHub](https://github.com/vippsas/vipps-magento)
-* Checkout:
-  * [Submit an issue at vipps-checkout-magento on GitHub](https://github.com/vippsas/vipps-checkout-magento)
-* Login:
-  * [Submit an issue at vipps-login-magento on GitHub](https://github.com/vippsas/vipps-login-magento)
+* Payment: Submit an issue at [vipps-magento](https://github.com/vippsas/vipps-magento) on GitHub
+* Checkout: Submit an issue at [vipps-checkout-magento](https://github.com/vippsas/vipps-checkout-magento) on GitHub
+* Login: Submit an issue at [vipps-login-magento](https://github.com/vippsas/vipps-login-magento) on GitHub
 
 **Please note** The Vipps Payment Module for [Magento 1](https://github.com/vippsas/vipps-magento-v1) is no longer supported. Vipps will no longer do updates or patches to the module. Run this code at your own risk.
 

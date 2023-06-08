@@ -22,5 +22,5 @@ For more information in Norwegian, see [Optimizely on vipps.no](https://www.vipp
 
 For support with the following, see:
 
-* Payment: [Submit an issue at vipps-episerver on GitHub](https://github.com/vippsas/vipps-episerver)
-* Login: [Submit an issue at vipps-login-dotnet on GitHub](https://github.com/vippsas/vipps-login-dotnet)
+* Payment: Submit an issue at [vipps-episerver](https://github.com/vippsas/vipps-episerver) on GitHub
+* Login: Submit an issue at [vipps-login-dotnet](https://github.com/vippsas/vipps-login-dotnet) on GitHub
