@@ -14,8 +14,8 @@ For information in Norwegian, see
 ## Plugins
 
 * Login: [Login for Craft CMS](https://developer.vippsmobilepay.com/docs/plugins-ext/craft-login/)
-* Payment: N/A
-* Recurring: N/A
+* Payment: Not supported
+* Recurring: Not supported
 
 ## Support
 

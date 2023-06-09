@@ -15,8 +15,8 @@ For information in Norwegian, see
 
 * Checkout: [Checkout for Shopify](https://developer.vippsmobilepay.com/docs/plugins-ext/checkout-shopify/)
 * Single payment: [Vipps for Shopify](https://developer.vippsmobilepay.com/docs/plugins-ext/shopify/)
-* Recurring: N/A
-* Login: N/A
+* Recurring: Not supported
+* Login: Not supported
 
 ## Support
 
