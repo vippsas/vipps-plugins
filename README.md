@@ -108,4 +108,21 @@ values={[
 
 ## Plugin development
 
-If you are interested in creating a plugin, see [Plugin development checklist](plugin-development.md).
+If you are interested in creating a plugin, see [Plugin development](plugin-development.md).
+
+
+[checkout-magento]: https://developer.vippsmobilepay.com/docs/plugins-ext/checkout-magento/
+[checkout-shopify]: https://developer.vippsmobilepay.com/docs/plugins-ext/checkout-shopify/
+[craft-login]: https://developer.vippsmobilepay.com/docs/plugins-ext/craft-login/
+[drupal]: https://developer.vippsmobilepay.com/docs/plugins-ext/drupal/
+[episerver]: https://developer.vippsmobilepay.com/docs/plugins-ext/episerver/
+[login-dotnet]: https://developer.vippsmobilepay.com/docs/plugins-ext/login-dotnet/
+[login-drupal]: https://developer.vippsmobilepay.com/docs/plugins-ext/login-drupal/
+[login-magento]: https://developer.vippsmobilepay.com/docs/plugins-ext/login-magento/
+[login-wordpress]: https://developer.vippsmobilepay.com/docs/plugins-ext/login-wordpress/
+[magento]: https://developer.vippsmobilepay.com/docs/plugins-ext/magento/
+[recurring-drupal]: https://developer.vippsmobilepay.com/docs/plugins-ext/recurring-drupal/
+[recurring-woocommerce]: https://developer.vippsmobilepay.com/docs/plugins-ext/recurring-woocommerce/
+[shopify]: https://developer.vippsmobilepay.com/docs/plugins-ext/shopify/
+[wix]: https://developer.vippsmobilepay.com/docs/plugins-ext/wix/
+[woocommerce]: https://developer.vippsmobilepay.com/docs/plugins-ext/woocommerce/
