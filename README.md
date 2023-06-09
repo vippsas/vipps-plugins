@@ -71,34 +71,51 @@ values={[
 | [Shopify][shopify]         |       ✅      |         ✅       |          |          |           |
 | [Wix][wix]                 |       ✅      |                  |          |           |           |
 | [WooCommerce][woocommerce] |       ✅      |        ✅        |    ✅   |     ✅   |     ✅   |
+
+Relevant links:
+
+* [Express checkout](https://developer.vippsmobilepay.com/docs/APIs/ecom-api/vipps-ecom-api/#express-checkout-payments)
+* [Receipts](https://developer.vippsmobilepay.com/docs/APIs/checkout-api/vipps-checkout-api/#receipts)
+
 </TabItem>
 
 <TabItem value="Checkout">
 
 | Platform                      | Pay with Vipps | Pay with Card |  Branding | Express Checkout | Receipts | QR codes |
-| ----------------------------- | -------------- | ------------- | -------- | ---------------- |----------|----------|
-| [Magento][checkout-magento]   |       ✅      |      ✅       |          |                  |     ✅   |           |
+| ----------------------------- | -------------- | ------------- | --------- | ---------------- |----------|----------|
+| [Magento][checkout-magento]   |       ✅      |      ✅       |           |                  |    ✅   |           |
 | [Shopify][checkout-shopify]   |       ✅      |      ✅       |    ✅    |                  |    ✅   |           |
-| [WooCommerce][woocommerce]    |        ✅     |      ✅       |    ✅    |        ✅        |    ✅   |     ✅   |
+| [WooCommerce][woocommerce]    |       ✅      |      ✅       |    ✅    |        ✅        |    ✅   |     ✅   |
+
+Relevant links:
+
+* [How Checkout works for WooCommerce](https://developer.vippsmobilepay.com/docs/APIs/checkout-api/vipps-checkout-how-it-works-woocommerce/)
+* [Express checkout](https://developer.vippsmobilepay.com/docs/APIs/ecom-api/vipps-ecom-api/#express-checkout-payments)
+* [Receipts](https://developer.vippsmobilepay.com/docs/APIs/checkout-api/vipps-checkout-api/#receipts)
+
 </TabItem>
 
 <TabItem value="Recurring">
 
-| Platform                             | Create agreements | Manage agreements | Campaign types |
-| ------------------------------------ | ----------------- | ----------------- | -------------- |
-| [Drupal][recurring-drupal]           |     ✅           |         ✅        |                |
-| [WooCommerce][recurring-woocommerce] |     ✅           |         ✅        |                |
+| Platform                             | Price campaign | Period campaign |
+| ------------------------------------ | -------------- | --------------- |
+| [Drupal][recurring-drupal]           |       ✅      |                 |
+| [WooCommerce][recurring-woocommerce] |       ✅      |       ✅        |
+
+Relevant links:
+
+* [Campaign types](https://developer.vippsmobilepay.com/docs/APIs/recurring-api/vipps-recurring-api/#campaigns)
 
 </TabItem>
 <TabItem value="Login">
 
 | Platform                                   | Sign up | Log in | User info | Link account |
 | ------------------------------------------ | ------- | ------ |---------- | ------------ |
-| [Craft Commerce][craft-login]              |    ✅   |  ✅   |    ✅    |    ✅       |
+| [Craft Commerce][craft-login]              |    ✅  |   ✅   |    ✅    |    ✅       |
 | [Drupal][login-drupal]                     |         |   ✅  |           |              |
 | [Magento][login-magento]                   |    ✅   |  ✅   |          |    ✅        |
 | [Optimizely][login-dotnet]                 |    ✅   |   ✅  |    ✅    |              |
-| [WooCommerce / WordPress][login-wordpress] |    ✅  |   ✅  |    ✅    |     ✅      |
+| [WooCommerce / WordPress][login-wordpress] |    ✅   |   ✅  |    ✅    |     ✅      |
 
 
 </TabItem>
@@ -111,18 +128,18 @@ values={[
 If you are interested in creating a plugin, see [Plugin development](plugin-development.md).
 
 
-[checkout-magento]: https://developer.vippsmobilepay.com/docs/plugins-ext/checkout-magento/
-[checkout-shopify]: https://developer.vippsmobilepay.com/docs/plugins-ext/checkout-shopify/
-[craft-login]: https://developer.vippsmobilepay.com/docs/plugins-ext/craft-login/
-[drupal]: https://developer.vippsmobilepay.com/docs/plugins-ext/drupal/
-[episerver]: https://developer.vippsmobilepay.com/docs/plugins-ext/episerver/
-[login-dotnet]: https://developer.vippsmobilepay.com/docs/plugins-ext/login-dotnet/
-[login-drupal]: https://developer.vippsmobilepay.com/docs/plugins-ext/login-drupal/
-[login-magento]: https://developer.vippsmobilepay.com/docs/plugins-ext/login-magento/
-[login-wordpress]: https://developer.vippsmobilepay.com/docs/plugins-ext/login-wordpress/
-[magento]: https://developer.vippsmobilepay.com/docs/plugins-ext/magento/
-[recurring-drupal]: https://developer.vippsmobilepay.com/docs/plugins-ext/recurring-drupal/
-[recurring-woocommerce]: https://developer.vippsmobilepay.com/docs/plugins-ext/recurring-woocommerce/
-[shopify]: https://developer.vippsmobilepay.com/docs/plugins-ext/shopify/
-[wix]: https://developer.vippsmobilepay.com/docs/plugins-ext/wix/
-[woocommerce]: https://developer.vippsmobilepay.com/docs/plugins-ext/woocommerce/
+[checkout-magento]: /docs/plugins-ext/checkout-magento/
+[checkout-shopify]: /docs/plugins-ext/checkout-shopify/
+[craft-login]: /docs/plugins-ext/craft-login/
+[drupal]: /docs/plugins-ext/drupal/
+[episerver]: /docs/plugins-ext/episerver/
+[login-dotnet]: /docs/plugins-ext/login-dotnet/
+[login-drupal]: /docs/plugins-ext/login-drupal/
+[login-magento]: /docs/plugins-ext/login-magento/
+[login-wordpress]: /docs/plugins-ext/login-wordpress/
+[magento]: /docs/plugins-ext/magento/
+[recurring-drupal]: /docs/plugins-ext/recurring-drupal/
+[recurring-woocommerce]: /docs/plugins-ext/recurring-woocommerce/
+[shopify]: /docs/plugins-ext/shopify/
+[wix]: /docs/plugins-ext/wix/
+[woocommerce]: /docs/plugins-ext/woocommerce/
