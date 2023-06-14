@@ -42,7 +42,7 @@ Also include the following support information:
 | Support               | Provide information about how to get help with the plugin or module. Link to the plugin's support system. Do not link to Vipps contact page. |
 | Link to Vipps Portal  | Inform the merchant that they can manage their sales units on the Vipps portal. For example: "You can manage your sales unit (e.g., change name and logo), see reports of all payments, etc. on [portal.vipps.no](https://portal.vipps.no)." |
 | Link to Vipps FAQ     | Provide a link to the Vipps FAQs. For example: "For typical questions and answers about Vipps payments and APIs, see the [Vipps FAQs](https://developer.vippsmobilepay.com/docs/vipps-developers/faqs)." |
-| Info about contributing on GitHub | Add to the _issues_ tab on the GitHub repo. |
+| Info about contributing on GitHub | Add to the *issues* tab on the GitHub repo. |
 | Link to Vipps help pages | "[The Vipps help page](https://vipps.no/hjelp/vipps/)" |
 | Link to Vipps customer center for merchants | "If you need help with your customer relationship with Vipps, [Contact Vipps customer service](https://vipps.no/hjelp/vipps/)." |
 | Link to newsletters       | "Vipps has a [technical newsletter](https://developer.vippsmobilepay.com/docs/vipps-developers/newsletters) with news about APIs, etc. We recommend subscribing to it." |
@@ -57,4 +57,4 @@ Include the following details and routines as part of the module.
 | Error Handling  | Ensure that users, both administrators and customers, receive an unambiguous notification when anything goes wrong. For POS integration, present the information to both the cashier and the customers.
 | Follow up on GitHub security/Dependabot alerts | Ensure that security alerts are added to pull requests and that there is a monthly routine in place for handling these. |
 | Order Management | Add receipts to orders using the [Order management API](https://developer.vippsmobilepay.com/docs/APIs/order-management-api/vipps-order-management-api/). |
-| On-site-messaging configuration| Add a configurable _On-site-messaging_ feature to ease the [Vipps on-site-messaging](https://developer.vippsmobilepay.com/docs/APIs/checkout-api/vipps-checkout-on-site-messaging). |
+| On-site-messaging configuration| Add a configurable *On-site-messaging* feature to ease the [Vipps on-site-messaging](https://developer.vippsmobilepay.com/docs/APIs/checkout-api/vipps-checkout-on-site-messaging). |
