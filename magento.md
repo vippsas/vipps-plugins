@@ -14,8 +14,8 @@ For information in Norwegian, see [Magento on vipps.no](https://www.vipps.no/pro
 
 * Checkout: [Checkout for Magento](https://developer.vippsmobilepay.com/docs/plugins-ext/checkout-magento)
 * Payment:
-  * [Payment for Magento](https://developer.vippsmobilepay.com/docs/plugins-ext/magento/)
-  * [Payment node js for Magento 2 PWA Studio](https://developer.vippsmobilepay.com/docs/plugins-ext/magento-pwa-studio/)
+  * [Payment for Magento 2](https://developer.vippsmobilepay.com/docs/plugins-ext/magento/)
+  * [Payment node js module for Magento 2 PWA Studio](https://developer.vippsmobilepay.com/docs/plugins-ext/magento-pwa-studio/)
 * Login: [Login for Magento](https://developer.vippsmobilepay.com/docs/plugins-ext/login-magento/)
 * Recurring: Not supported
 
