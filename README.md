@@ -19,7 +19,7 @@ import TabItem from '@theme/TabItem';
 <!-- START_COMMENT -->
 
 ℹ️ Please use the website:
-[Vipps MobilePay Technical Documentation](https://developer.vippsmobilepay.com/docs/vipps-plugins).
+[Vipps MobilePay Technical Documentation](https://developer.vippsmobilepay.com/docs/plugins).
 
 <!-- END_COMMENT -->
 
