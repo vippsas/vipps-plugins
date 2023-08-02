@@ -13,19 +13,23 @@ For information in Norwegian, see [Magento on vipps.no](https://www.vipps.no/pro
 ## Plugins
 
 * Checkout: [Checkout for Magento](https://developer.vippsmobilepay.com/docs/plugins-ext/checkout-magento)
-* Payment: [Payment for Magento](https://developer.vippsmobilepay.com/docs/plugins-ext/magento/)
+* Payment:
+  * [Payment for Magento 2](https://developer.vippsmobilepay.com/docs/plugins-ext/magento/)
+  * [Payment node js module for Magento 2 PWA Studio](https://developer.vippsmobilepay.com/docs/plugins-ext/magento-pwa-studio/)
 * Login: [Login for Magento](https://developer.vippsmobilepay.com/docs/plugins-ext/login-magento/)
 * Recurring: Not supported
 
 ## Support
 
-For support with the following, see:
+For support with the following:
 
-* Payment: Submit an issue at [vipps-magento](https://github.com/vippsas/vipps-magento) on GitHub
+* Payment:
+  * Payment for Magento: Submit an issue at [vipps-magento](https://github.com/vippsas/vipps-magento) on GitHub
+  * Vipps Payment node js module for Magento 2 PWA Studio: Submit an issue at [vipps-magento-pwa-studio](https://github.com/vippsas/vipps-magento-pwa-studio) on GitHub
 * Checkout: Submit an issue at [vipps-checkout-magento](https://github.com/vippsas/vipps-checkout-magento) on GitHub
 * Login: Submit an issue at [vipps-login-magento](https://github.com/vippsas/vipps-login-magento) on GitHub
 
-**Please note** The Vipps Payment Module for [Magento 1](https://github.com/vippsas/vipps-magento-v1) is no longer supported. Vipps will no longer do updates or patches to the module. Run this code at your own risk.
+**Please note** The Vipps Payment Module for [Magento 1](https://github.com/vippsas/vipps-magento-v1) is no longer supported. Vipps will no longer do updates or patches to Magento 1, so please upgrade to Magento 2.
 
 ## Related topics
 
