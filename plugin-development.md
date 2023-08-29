@@ -29,7 +29,7 @@ Your plugin module must include all the following information:
 | Prerequisites     | A list of prerequisites for using the module.|
 | Configuration     | Information about all the configurable features. |
 | Get API keys      | Detailed 1-2-3-type list with reference how to [get API keys](https://developer.vippsmobilepay.com/docs/common-topics/api-keys#getting-the-api-keys). |
-| Info about on-site-messaging| Specify how to configure in module or add a link to [Vipps on-site-messaging](https://developer.vippsmobilepay.com/docs/APIs/checkout-api/vipps-checkout-on-site-messaging). |
+| Info about on-site-messaging| Specify how to configure in module or add a link to [On-site messaging](https://developer.vippsmobilepay.com/docs/design-guidelines/checkout-on-site-messaging/). |
 | Notification on available updates| If it's not default by platform, show a notification banner when an update is available for the module. |
 | API Dashboard     | Inform that merchants can use the [Vipps API Dashboard](https://developer.vippsmobilepay.com/docs/developer-resources/api-dashboard) to follow up on errors.|
 | Changelog         | Detailed release notes for new releases. Do not add cryptic comments about updates, but describe what is new. |
