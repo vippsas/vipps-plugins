@@ -53,7 +53,7 @@ Include the following details and routines as part of the module.
 
 | Required content    | Comment   |
 |---------------------|-----------|
-| Error Logging   | Include the option to activate debugging mode with enhanced logging and tracking of all Vipps calls and responses. Track both [error codes and error messages](https://developer.vippsmobilepay.com/docs/APIs/ecom-api/vipps-ecom-api#error-codes). Present the results in a separate page of the module configuration, with the complete Vipps error message displayed.
+| Error Logging   | Include the option to activate debugging mode with enhanced logging and tracking of all Vipps calls and responses. Track and make sure to handle [all errors](https://developer.vippsmobilepay.com/docs/common-topics/errors/). Present the results in a separate page of the module configuration, with the complete Vipps MobilePay error message displayed.
 | Error Handling  | Ensure that users, both administrators and customers, receive an unambiguous notification when anything goes wrong. For POS integration, present the information to both the cashier and the customers.
 | Follow up on GitHub security/Dependabot alerts | Ensure that security alerts are added to pull requests and that there is a monthly routine in place for handling these. |
 | Order Management | Add receipts to orders using the [Order management API](https://developer.vippsmobilepay.com/docs/APIs/order-management-api/vipps-order-management-api/). |
