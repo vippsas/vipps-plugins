@@ -26,7 +26,7 @@ import TabItem from '@theme/TabItem';
 Vipps provides several open source plugins for various web solutions. This page gives an overview, and the sections below have more details.
 We update this table as soon as statuses or plans change.
 
-If you need help with your customer relationship with Vipps, [contact customer service](https://vipps.no/hjelp/vipps/).
+If you need help with your customer relationship, [contact customer service](https://vipps.no/hjelp/vipps/).
 
 ## Plugin platforms
 
