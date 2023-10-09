@@ -26,7 +26,7 @@ import TabItem from '@theme/TabItem';
 Vipps provides several open source plugins for various web solutions. This page gives an overview, and the sections below have more details.
 We update this table as soon as statuses or plans change.
 
-If you need help with your customer relationship with Vipps, [contact customer service](https://vipps.no/hjelp/vipps/).
+If you need help with your customer relationship, [contact customer service](https://vipps.no/hjelp/vipps/).
 
 ## Plugin platforms
 
@@ -39,7 +39,6 @@ The following plugin platforms can be used with
 
 | Platform                      | Payment | Checkout | Recurring  | Login |
 | ----------------------------- | ------- | -------- |----------- | ----- |
-| [Craft Commerce](craft.md)    |        |          |           |   ✅  |
 | [Drupal](drupal.md)           |   ✅   |          |    ✅     |   ✅  |
 | [Magento](magento.md)         |   ✅   |    ✅    |           |   ✅  |
 | [Optimizely](optimizely.md)   |   ✅   |          |           |   ✅  |
@@ -111,7 +110,6 @@ Relevant links:
 
 | Platform                                   | Sign up | Log in | User info | Link account |
 | ------------------------------------------ | ------- | ------ |---------- | ------------ |
-| [Craft Commerce][craft-login]              |    ✅  |   ✅   |    ✅    |    ✅       |
 | [Drupal][login-drupal]                     |         |   ✅  |           |              |
 | [Magento][login-magento]                   |    ✅   |  ✅   |          |    ✅        |
 | [Optimizely][login-dotnet]                 |    ✅   |   ✅  |    ✅    |              |
@@ -130,7 +128,6 @@ If you are interested in creating a plugin, see [Plugin development](plugin-deve
 
 [checkout-magento]: /docs/plugins-ext/checkout-magento/
 [checkout-shopify]: /docs/plugins-ext/checkout-shopify/
-[craft-login]: /docs/plugins-ext/craft-login/
 [drupal]: /docs/plugins-ext/drupal/
 [episerver]: /docs/plugins-ext/episerver/
 [login-dotnet]: /docs/plugins-ext/login-dotnet/
