@@ -1,6 +1,6 @@
 <!-- START_METADATA
 ---
-title: Introduction to Vipps Plugins
+title: Introduction to Vipps MobilePay Plugins
 sidebar_label: Introduction
 sidebar_position: 1
 hide_table_of_contents: true
@@ -9,7 +9,6 @@ pagination_prev: null
 ---
 END_METADATA -->
 
-
 import ApiSchema from '@theme/ApiSchema';
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -17,13 +16,17 @@ import TabItem from '@theme/TabItem';
 # Plugins
 
 <!-- START_COMMENT -->
-
 ℹ️ Please use the website:
 [Vipps MobilePay Technical Documentation](https://developer.vippsmobilepay.com/docs/plugins).
-
 <!-- END_COMMENT -->
 
-Vipps provides several open source plugins for various web solutions. This page gives an overview, and the sections below have more details.
+![Vipps](./images/vipps.png) *Available for Vipps unless otherwise stated.*
+
+![MobilePay](./images/mp.png) *Most plugins will be available for MobilePay in Finland and Denmark in Q1 2024.*
+
+
+There are several open-source plugins available to help you integrate with Vipps and MobilePay in various web solutions.
+This page gives an overview, and the sections below have more details.
 We update this table as soon as statuses or plans change.
 
 If you need help with your customer relationship, [contact customer service](https://vipps.no/hjelp/vipps/).
@@ -34,7 +37,9 @@ The following plugin platforms can be used with
 [Payment *(Vipps på nett)*](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/),
 [Checkout](https://www.vipps.no/produkter-og-tjenester/bedrift/bestill-vipps-checkout/checkout/),
 [Recurring *(Faste betalinger)*](https://vipps.no/produkter-og-tjenester/bedrift/faste-betalinger/faste-betalinger/), and
-[Login](https://www.vipps.no/produkter-og-tjenester/bedrift/logg-inn-med-vipps/logg-inn-med-vipps/).
+[Login](https://www.vipps.no/produkter-og-tjenester/bedrift/logg-inn-med-vipps/logg-inn-med-vipps/)
+for Vipps.
+Most plugins will be available for MobilePay in Finland and Denmark in Q1 2024.
 
 
 | Platform                      | Payment | Checkout | Recurring  | Login |
