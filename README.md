@@ -20,7 +20,7 @@ import TabItem from '@theme/TabItem';
 [Vipps MobilePay Technical Documentation](https://developer.vippsmobilepay.com/docs/plugins).
 <!-- END_COMMENT -->
 
-![Vipps](./images/vipps.png) *Available for Vipps unless otherwise stated.*
+![Vipps](./images/vipps.png) *Available for Vipps now.*
 
 ![MobilePay](./images/mp.png) *Most plugins will be available for MobilePay in Finland and Denmark in Q1 2024.*
 
