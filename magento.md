@@ -24,8 +24,8 @@ For information in Norwegian, see [Magento on vipps.no](https://www.vipps.no/pro
 For support with the following:
 
 * Payment:
-  * Payment for Magento: Submit an issue at [vipps-magento](https://github.com/vippsas/vipps-magento) on GitHub
-  * Vipps Payment node js module for Magento 2 PWA Studio: Submit an issue at [vipps-magento-pwa-studio](https://github.com/vippsas/vipps-magento-pwa-studio) on GitHub
+  * *Payment for Magento*: Submit an issue at [vipps-magento](https://github.com/vippsas/vipps-magento) on GitHub
+  * *Vipps Payment node js module for Magento 2 PWA Studio*: Submit an issue at [vipps-magento-pwa-studio](https://github.com/vippsas/vipps-magento-pwa-studio) on GitHub
 * Checkout: Submit an issue at [vipps-checkout-magento](https://github.com/vippsas/vipps-checkout-magento) on GitHub
 * Login: Submit an issue at [vipps-login-magento](https://github.com/vippsas/vipps-login-magento) on GitHub
 
