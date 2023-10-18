@@ -7,11 +7,11 @@ hide_table_of_contents: true
 pagination_next: null
 pagination_prev: null
 ---
-END_METADATA -->
 
 import ApiSchema from '@theme/ApiSchema';
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
+END_METADATA -->
 
 # Plugins
 
@@ -56,8 +56,20 @@ Most plugins will be available for MobilePay in Finland and Denmark in Q1 2024.
 ### Features
 
 <Tabs
+defaultValue="vipps"
+groupId="brand"
+values={[
+{label: 'Vipps', value: 'vipps'},
+{label: 'MobilePay', value: 'mobilepay'},
+]}>
+<TabItem value="vipps">
+
+
+
+
+<Tabs
 defaultValue="Payment"
-groupId="sdk-choice"
+groupId="plugin-type"
 values={[
 {label: 'Payment', value: 'Payment'},
 {label: 'Checkout', value: 'Checkout'},
@@ -75,11 +87,6 @@ values={[
 | [Shopify][shopify]         |       ✅      |         ✅       |          |          |           |
 | [Wix][wix]                 |       ✅      |                  |          |           |           |
 | [WooCommerce][woocommerce] |       ✅      |        ✅        |    ✅   |     ✅   |     ✅   |
-
-Relevant links:
-
-* [Express checkout](https://developer.vippsmobilepay.com/docs/APIs/ecom-api/vipps-ecom-api/#express-checkout-payments)
-* [Receipts](https://developer.vippsmobilepay.com/docs/APIs/checkout-api/vipps-checkout-api/#receipts)
 
 </TabItem>
 
@@ -120,6 +127,83 @@ Relevant links:
 | [Optimizely][login-dotnet]                 |    ✅   |   ✅  |    ✅    |              |
 | [WooCommerce / WordPress][login-wordpress] |    ✅   |   ✅  |    ✅    |     ✅      |
 
+
+</TabItem>
+</Tabs>
+
+</TabItem>
+<TabItem value="mobilepay">
+
+*These are planned to be available in Q1 2024*
+
+
+
+
+
+<Tabs
+defaultValue="Payment"
+groupId="plugin-type"
+values={[
+{label: 'Payment', value: 'Payment'},
+{label: 'Checkout', value: 'Checkout'},
+{label: 'Recurring', value: 'Recurring'},
+{label: 'Login', value: 'Login'},
+]}>
+
+<TabItem value="Payment">
+
+| Platform                   | Pay with MobilePay |  Receipts | Branding | QR codes |
+| -------------------------- | ------------------ | ----------| ---------|----------|
+| [Drupal][drupal]           |       ✅           |           |          |          |
+| [Magento][magento]         |       ✅           |           |          |          |
+| [WooCommerce][woocommerce] |       ✅           |     ✅    |   ✅    |    ✅    |
+
+Relevant links:
+
+* [Receipts](https://developer.vippsmobilepay.com/docs/APIs/checkout-api/vipps-checkout-api/#receipts)
+
+</TabItem>
+
+<TabItem value="Checkout">
+
+| Platform                         | Pay with MobilePay | Pay with Card |  Branding |  Receipts | QR codes |
+| -------------------------------- | ------------------ | ------------- | --------- | ----------|----------|
+| [Magento][checkout-magento]???   |          ✅       |      ✅       |           |   ✅   |            |
+| [Wix][wix]                       |          ✅       |      ✅       |   ???     | ???     |   ????    |
+| [Shopify][checkout-shopify]      |          ✅       |      ✅       |    ✅    |    ✅   |           |
+| [WooCommerce][woocommerce]???    |          ✅       |      ✅       |    ✅    |    ✅   |     ✅    |
+
+Relevant links:
+
+* [How Checkout works for WooCommerce](https://developer.vippsmobilepay.com/docs/APIs/checkout-api/vipps-checkout-how-it-works-woocommerce/)
+* [Receipts](https://developer.vippsmobilepay.com/docs/APIs/checkout-api/vipps-checkout-api/#receipts)
+
+</TabItem>
+
+<TabItem value="Recurring">
+
+| Platform                             | Price campaign | Period campaign |
+| ------------------------------------ | -------------- | --------------- |
+| [Drupal][recurring-drupal]           |       ✅????      |                 |
+| [WooCommerce][recurring-woocommerce] |       ✅????      |       ✅????        |
+
+Relevant links:
+
+* [Campaign types](https://developer.vippsmobilepay.com/docs/APIs/recurring-api/vipps-recurring-api/#campaigns)
+
+</TabItem>
+<TabItem value="Login">
+
+| Platform                                   | Sign up | Log in | User info | Link account |
+| ------------------------------------------ | ------- | ------ |---------- | ------------ |
+| [Drupal][login-drupal]                     |         |   ✅????  |           |              |
+| [Magento][login-magento]                   |    ✅????   |  ✅????   |          |    ✅????        |
+| [Optimizely][login-dotnet]                 |    ✅????   |   ✅????  |    ✅????    |              |
+| [WooCommerce / WordPress][login-wordpress] |    ✅????   |   ✅????  |    ✅????    |     ✅????      |
+
+
+</TabItem>
+</Tabs>
 
 </TabItem>
 </Tabs>
