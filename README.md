@@ -41,6 +41,14 @@ The following plugin platforms can be used with
 for Vipps.
 Most plugins will be available for MobilePay in Finland and Denmark in Q1 2024.
 
+<Tabs
+defaultValue="vipps"
+groupId="brand"
+values={[
+{label: 'Vipps', value: 'vipps'},
+{label: 'MobilePay', value: 'mobilepay'},
+]}>
+<TabItem value="vipps">
 
 | Platform                      | Payment | Checkout | Recurring  | Login |
 | ----------------------------- | ------- | -------- |----------- | ----- |
@@ -51,6 +59,27 @@ Most plugins will be available for MobilePay in Finland and Denmark in Q1 2024.
 | [Wix](wix.md)                 |   ✅   |          |           |       |
 | [WooCommerce](woocommerce.md) |   ✅   |    ✅    |    ✅     |   ✅  |
 | [WordPress](wordpress.md)     |        |           |           |   ✅  |
+
+
+</TabItem>
+<TabItem value="mobilepay">
+
+*These are planned to be available in Q1 2024*
+
+
+
+| Platform                      | Payment | Checkout | Recurring  | Login |
+| ----------------------------- | ------- | -------- |----------- | ----- |
+| [Drupal](drupal.md)           |   ✅   |          |    ✅     |   ✅  |
+| [Magento](magento.md)         |   ✅   |    ?     |           |   ✅  |
+| [Optimizely](optimizely.md)   |        |          |            |   ✅  |
+| [Shopify](shopify.md)         |        |    ✅    |           |       |
+| [Wix](wix.md)                 |        |     ✅    |           |       |
+| [WooCommerce](woocommerce.md) |   ✅   |    ?    |    ✅     |   ✅  |
+| [WordPress](wordpress.md)     |        |           |           |   ✅  |
+
+</TabItem>
+</Tabs>
 
 
 ### Features
@@ -135,10 +164,6 @@ Relevant links:
 <TabItem value="mobilepay">
 
 *These are planned to be available in Q1 2024*
-
-
-
-
 
 <Tabs
 defaultValue="Payment"
