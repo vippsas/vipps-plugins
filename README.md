@@ -20,7 +20,7 @@ END_METADATA -->
 [Vipps MobilePay Technical Documentation](https://developer.vippsmobilepay.com/docs/plugins).
 <!-- END_COMMENT -->
 
-![Vipps](./images/vipps.png) *Available for Vipps now.*
+![Vipps](./images/vipps.png) *These plugins are available for Vipps.*
 
 ![MobilePay](./images/mp.png) *Most plugins will be available for MobilePay in Finland and Denmark in Q1 2024.*
 
@@ -39,7 +39,8 @@ The following plugin platforms can be used with
 [Recurring *(Faste betalinger)*](https://vipps.no/produkter-og-tjenester/bedrift/faste-betalinger/faste-betalinger/), and
 [Login](https://www.vipps.no/produkter-og-tjenester/bedrift/logg-inn-med-vipps/logg-inn-med-vipps/)
 for Vipps.
-Most plugins will be available for MobilePay in Finland and Denmark in Q1 2024.
+
+*Most plugins will be available for MobilePay in Finland and Denmark in Q1 2024.*
 
 <Tabs
 defaultValue="vipps"
@@ -64,20 +65,21 @@ values={[
 </TabItem>
 <TabItem value="mobilepay">
 
-*These are planned to be available in Q1 2024*
-
-
 
 | Platform                      | Payment | Checkout | Recurring  | Login |
 | ----------------------------- | ------- | -------- |----------- | ----- |
-| [Drupal](drupal.md)           |   ✅   |          |    ✅     |   ✅  |
-| [Magento](magento.md)         |   ✅   |    ?     |           |   ✅  |
-| [Optimizely](optimizely.md)   |        |          |            |   ✅  |
-| [Shopify](shopify.md)         |        |    ✅    |           |       |
-| [Wix](wix.md)                 |        |     ✅    |           |       |
-| [WooCommerce](woocommerce.md) |   ✅   |    ?    |    ✅     |   ✅  |
-| [WordPress](wordpress.md)     |        |           |           |   ✅  |
+| [Drupal](drupal.md)           |   ❓   |          |    ❓     |   ❓  |
+| [Magento](magento.md)         |   🔜   |    ❓     |           |   ⏳  |
+| [Optimizely](optimizely.md)   |        |          |            |   ❓  |
+| [Shopify](shopify.md)         |        |    🔜    |           |       |
+| [Wix](wix.md)                 |        |     🔜    |           |       |
+| [WooCommerce](woocommerce.md) |   🔜   |    🔜    |    🔜     |   🔜  |
+| [WordPress](wordpress.md)     |        |           |           |   🔜  |
 
+
+🔜 Coming in Q1 2024.
+⏳ Coming sometime later.
+❓ We aren't sure if this is coming.
 </TabItem>
 </Tabs>
 
@@ -129,9 +131,9 @@ values={[
 
 Relevant links:
 
-* [How Checkout works for WooCommerce](https://developer.vippsmobilepay.com/docs/APIs/checkout-api/vipps-checkout-how-it-works-woocommerce/)
-* [Express checkout](https://developer.vippsmobilepay.com/docs/APIs/ecom-api/vipps-ecom-api/#express-checkout-payments)
-* [Receipts](https://developer.vippsmobilepay.com/docs/APIs/checkout-api/vipps-checkout-api/#receipts)
+* [How Checkout works for WooCommerce](/docs/APIs/checkout-api/vipps-checkout-how-it-works-woocommerce/)
+* [Express checkout](/docs/APIs/ecom-api/vipps-ecom-api/#express-checkout-payments)
+* [Receipts](/docs/APIs/checkout-api/vipps-checkout-api/#receipts)
 
 </TabItem>
 
@@ -144,7 +146,7 @@ Relevant links:
 
 Relevant links:
 
-* [Campaign types](https://developer.vippsmobilepay.com/docs/APIs/recurring-api/vipps-recurring-api/#campaigns)
+* [Campaign types](/docs/APIs/recurring-api/vipps-recurring-api/#campaigns)
 
 </TabItem>
 <TabItem value="Login">
@@ -163,8 +165,6 @@ Relevant links:
 </TabItem>
 <TabItem value="mobilepay">
 
-*These are planned to be available in Q1 2024*
-
 <Tabs
 defaultValue="Payment"
 groupId="plugin-type"
@@ -179,13 +179,15 @@ values={[
 
 | Platform                   | Pay with MobilePay |  Receipts | Branding | QR codes |
 | -------------------------- | ------------------ | ----------| ---------|----------|
-| [Drupal][drupal]           |       ✅           |           |          |          |
-| [Magento][magento]         |       ✅           |           |          |          |
-| [WooCommerce][woocommerce] |       ✅           |     ✅    |   ✅    |    ✅    |
+| [Drupal][drupal]           |       🔜           |           |          |          |
+| [Magento][magento]         |       🔜           |           |          |          |
+| [WooCommerce][woocommerce] |       🔜           |     🔜    |   🔜    |    🔜    |
+
+🔜 Coming in Q1 2024.
 
 Relevant links:
 
-* [Receipts](https://developer.vippsmobilepay.com/docs/APIs/checkout-api/vipps-checkout-api/#receipts)
+* [Receipts](/docs/APIs/checkout-api/vipps-checkout-api/#receipts)
 
 </TabItem>
 
@@ -193,15 +195,18 @@ Relevant links:
 
 | Platform                         | Pay with MobilePay | Pay with Card |  Branding |  Receipts | QR codes |
 | -------------------------------- | ------------------ | ------------- | --------- | ----------|----------|
-| [Magento][checkout-magento]???   |          ✅       |      ✅       |           |   ✅   |            |
-| [Wix][wix]                       |          ✅       |      ✅       |   ???     | ???     |   ????    |
-| [Shopify][checkout-shopify]      |          ✅       |      ✅       |    ✅    |    ✅   |           |
-| [WooCommerce][woocommerce]???    |          ✅       |      ✅       |    ✅    |    ✅   |     ✅    |
+| [Magento][checkout-magento]      |          ❓       |      ❓       |           |   ❓   |            |
+| [Wix][wix]                       |          🔜       |      🔜       |   ❓     | ❓     |   ❓    |
+| [Shopify][checkout-shopify]      |          🔜       |      🔜       |    🔜    |    🔜   |           |
+| [WooCommerce][woocommerce]       |          🔜       |      🔜       |    🔜    |    🔜   |     🔜    |
+
+🔜 Coming in Q1 2024.
+❓ We aren't sure if this is coming.
 
 Relevant links:
 
-* [How Checkout works for WooCommerce](https://developer.vippsmobilepay.com/docs/APIs/checkout-api/vipps-checkout-how-it-works-woocommerce/)
-* [Receipts](https://developer.vippsmobilepay.com/docs/APIs/checkout-api/vipps-checkout-api/#receipts)
+* [How Checkout works for WooCommerce](/docs/APIs/checkout-api/vipps-checkout-how-it-works-woocommerce/)
+* [Receipts](/docs/APIs/checkout-api/vipps-checkout-api/#receipts)
 
 </TabItem>
 
@@ -209,30 +214,35 @@ Relevant links:
 
 | Platform                             | Price campaign | Period campaign |
 | ------------------------------------ | -------------- | --------------- |
-| [Drupal][recurring-drupal]           |       ✅????      |                 |
-| [WooCommerce][recurring-woocommerce] |       ✅????      |       ✅????        |
+| [Drupal][recurring-drupal]           |       ❓      |                 |
+| [WooCommerce][recurring-woocommerce] |       🔜      |       🔜        |
+
+🔜 Coming in Q1 2024.
+❓ We aren't sure if this is coming.
+
 
 Relevant links:
 
-* [Campaign types](https://developer.vippsmobilepay.com/docs/APIs/recurring-api/vipps-recurring-api/#campaigns)
+* [Campaign types](/docs/APIs/recurring-api/vipps-recurring-api/#campaigns)
 
 </TabItem>
 <TabItem value="Login">
 
 | Platform                                   | Sign up | Log in | User info | Link account |
 | ------------------------------------------ | ------- | ------ |---------- | ------------ |
-| [Drupal][login-drupal]                     |         |   ✅????  |           |              |
-| [Magento][login-magento]                   |    ✅????   |  ✅????   |          |    ✅????        |
-| [Optimizely][login-dotnet]                 |    ✅????   |   ✅????  |    ✅????    |              |
-| [WooCommerce / WordPress][login-wordpress] |    ✅????   |   ✅????  |    ✅????    |     ✅????      |
+| [Drupal][login-drupal]                     |         |   ❓  |           |              |
+| [Magento][login-magento]                   |    ❓  |   ❓   |          |    ❓        |
+| [Optimizely][login-dotnet]                 |    ❓  |   ❓   |    ❓    |              |
+| [WooCommerce / WordPress][login-wordpress] |    ⏳  |   ⏳   |    ⏳   |   ⏳    |
 
+⏳ Coming sometime later.
+❓ We aren't sure if this is coming.
 
 </TabItem>
 </Tabs>
 
 </TabItem>
 </Tabs>
-
 
 
 ## Plugin development
