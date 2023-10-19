@@ -73,8 +73,8 @@ values={[
 | [Optimizely](optimizely.md)   |        |          |            |   ❓  |
 | [Shopify](shopify.md)         |        |    🔜    |           |       |
 | [Wix](wix.md)                 |        |     🔜    |           |       |
-| [WooCommerce](woocommerce.md) |   🔜   |    🔜    |    🔜     |   🔜  |
-| [WordPress](wordpress.md)     |        |           |           |   🔜  |
+| [WooCommerce](woocommerce.md) |   🔜   |    🔜    |    🔜     |   ⏳  |
+| [WordPress](wordpress.md)     |        |           |           |   ⏳  |
 
 
 🔜 Coming in Q1 2024.
