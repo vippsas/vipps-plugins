@@ -20,14 +20,11 @@ END_METADATA -->
 [Vipps MobilePay Technical Documentation](https://developer.vippsmobilepay.com/docs/plugins).
 <!-- END_COMMENT -->
 
-![Vipps](./images/vipps.png) *These plugins are available for Vipps.*
+![Vipps](./images/vipps.png) *Plugins are available for Vipps.*
 
 ![MobilePay](./images/mp.png) *Most plugins will be available for MobilePay in Finland and Denmark in Q1 2024.*
 
-
-There are several open-source plugins available to help you integrate with Vipps and MobilePay in various web solutions.
-This page gives an overview, and the sections below have more details.
-We update this table as soon as statuses or plans change.
+There are several open-source plugins to help you add Vipps to your web solutions.
 
 If you need help with your customer relationship, [contact customer service](https://vipps.no/hjelp/vipps/).
 
@@ -40,7 +37,10 @@ The following plugin platforms can be used with
 [Login](https://www.vipps.no/produkter-og-tjenester/bedrift/logg-inn-med-vipps/logg-inn-med-vipps/)
 for Vipps.
 
-*Most plugins will be available for MobilePay in Finland and Denmark in Q1 2024.*
+We are working with plugin providers to get new and updated plugins to
+support MobilePay.
+Most plugins will be available for MobilePay in Finland and Denmark in Q1 2024.
+The sections below will be updated as soon as statuses or plans change.
 
 <Tabs
 defaultValue="vipps"
@@ -250,17 +250,17 @@ Relevant links:
 If you are interested in creating a plugin, see [Plugin development](plugin-development.md).
 
 
-[checkout-magento]: /docs/plugins-ext/checkout-magento/
-[checkout-shopify]: /docs/plugins-ext/checkout-shopify/
-[drupal]: /docs/plugins-ext/drupal/
-[episerver]: /docs/plugins-ext/episerver/
-[login-dotnet]: /docs/plugins-ext/login-dotnet/
-[login-drupal]: /docs/plugins-ext/login-drupal/
-[login-magento]: /docs/plugins-ext/login-magento/
-[login-wordpress]: /docs/plugins-ext/login-wordpress/
-[magento]: /docs/plugins-ext/magento/
-[recurring-drupal]: /docs/plugins-ext/recurring-drupal/
-[recurring-woocommerce]: /docs/plugins-ext/recurring-woocommerce/
-[shopify]: /docs/plugins-ext/shopify/
-[wix]: /docs/plugins-ext/wix/
-[woocommerce]: /docs/plugins-ext/woocommerce/
+[checkout-magento]: https://developer.vippsmobilepay.com/docs/plugins-ext/checkout-magento/
+[checkout-shopify]: https://developer.vippsmobilepay.com/docs/plugins-ext/checkout-shopify/
+[drupal]: https://developer.vippsmobilepay.com/docs/plugins-ext/drupal/
+[episerver]: https://developer.vippsmobilepay.com/docs/plugins-ext/episerver/
+[login-dotnet]: https://developer.vippsmobilepay.com/docs/plugins-ext/login-dotnet/
+[login-drupal]: https://developer.vippsmobilepay.com/docs/plugins-ext/login-drupal/
+[login-magento]: https://developer.vippsmobilepay.com/docs/plugins-ext/login-magento/
+[login-wordpress]: https://developer.vippsmobilepay.com/docs/plugins-ext/login-wordpress/
+[magento]: https://developer.vippsmobilepay.com/docs/plugins-ext/magento/
+[recurring-drupal]: https://developer.vippsmobilepay.com/docs/plugins-ext/recurring-drupal/
+[recurring-woocommerce]: https://developer.vippsmobilepay.com/docs/plugins-ext/recurring-woocommerce/
+[shopify]: https://developer.vippsmobilepay.com/docs/plugins-ext/shopify/
+[wix]: https://developer.vippsmobilepay.com/docs/plugins-ext/wix/
+[woocommerce]: https://developer.vippsmobilepay.com/docs/plugins-ext/woocommerce/
