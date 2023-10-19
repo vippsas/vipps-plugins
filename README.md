@@ -24,7 +24,7 @@ END_METADATA -->
 
 ![MobilePay](./images/mp.png) *Most plugins will be available for MobilePay in Finland and Denmark in Q1 2024.*
 
-There are several open-source plugins to help you add Vipps to your web solutions.
+There are several open-source plugins to help you add Vipps and soon MobilePay to your web solutions.
 
 If you need help with your customer relationship, [contact customer service](https://vipps.no/hjelp/vipps/).
 
