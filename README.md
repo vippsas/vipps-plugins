@@ -179,7 +179,7 @@ values={[
 
 | Platform                   | Pay with MobilePay |  Receipts | Branding | QR codes |
 | -------------------------- | ------------------ | ----------| ---------|----------|
-| [Drupal][drupal]           |       🔜           |           |          |          |
+| [Drupal][drupal]           |       ❓           |           |          |          |
 | [Magento][magento]         |       🔜           |           |          |          |
 | [WooCommerce][woocommerce] |       🔜           |     🔜    |   🔜    |    🔜    |
 
