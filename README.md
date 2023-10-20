@@ -69,12 +69,12 @@ values={[
 | Platform                      | Payment | Checkout | Recurring  | Login |
 | ----------------------------- | ------- | -------- |----------- | ----- |
 | [Drupal](drupal.md)           |   ❓   |          |    ❓     |   ❓  |
-| [Magento](magento.md)         |   🔜   |    ❓     |           |   ⏳  |
+| [Magento](magento.md)         |   🔜   |    ❓     |           |   ❓  |
 | [Optimizely](optimizely.md)   |        |          |            |   ❓  |
 | [Shopify](shopify.md)         |        |    🔜    |           |       |
 | [Wix](wix.md)                 |        |     🔜    |           |       |
-| [WooCommerce](woocommerce.md) |   🔜   |    🔜    |    🔜     |   🔜  |
-| [WordPress](wordpress.md)     |        |           |           |   🔜  |
+| [WooCommerce](woocommerce.md) |   🔜   |    🔜    |    🔜     |   ❓  |
+| [WordPress](wordpress.md)     |        |           |           |   ❓  |
 
 
 🔜 Coming in Q1 2024.
@@ -233,7 +233,7 @@ Relevant links:
 | [Drupal][login-drupal]                     |         |   ❓  |           |              |
 | [Magento][login-magento]                   |    ❓  |   ❓   |          |    ❓        |
 | [Optimizely][login-dotnet]                 |    ❓  |   ❓   |    ❓    |              |
-| [WooCommerce / WordPress][login-wordpress] |    ⏳  |   ⏳   |    ⏳   |   ⏳    |
+| [WooCommerce / WordPress][login-wordpress] |    ❓  |   ❓   |    ❓   |   ❓    |
 
 ⏳ Coming sometime later.
 ❓ We aren't sure if this is coming.
