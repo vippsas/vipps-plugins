@@ -78,7 +78,6 @@ values={[
 
 
 🔜 Coming in Q1 2024.
-⏳ Coming sometime later.
 ❓ We aren't sure if this is coming.
 </TabItem>
 </Tabs>
@@ -235,7 +234,6 @@ Relevant links:
 | [Optimizely][login-dotnet]                 |    ❓  |   ❓   |    ❓    |              |
 | [WooCommerce / WordPress][login-wordpress] |    ❓  |   ❓   |    ❓   |   ❓    |
 
-⏳ Coming sometime later.
 ❓ We aren't sure if this is coming.
 
 </TabItem>
