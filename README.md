@@ -53,9 +53,10 @@ values={[
 
 | Platform                      | Payment | Checkout | Recurring  | Login |
 | ----------------------------- | ------- | -------- |----------- | ----- |
-| [Drupal](drupal.md)           |   ✅   |          |    ✅     |   ✅  |
+| [Drupal](drupal.md)           |   ✅   |    🔜     |    ✅     |   ✅  |
 | [Magento](magento.md)         |   ✅   |    ✅    |           |   ✅  |
 | [Optimizely](optimizely.md)   |   ✅   |          |           |   ✅  |
+| Prestashop                    |        |    🔜    |           |       |
 | [Shopify](shopify.md)         |   ✅   |    ✅    |           |       |
 | [Wix](wix.md)                 |   ✅   |          |           |       |
 | [WooCommerce](woocommerce.md) |   ✅   |    ✅    |    ✅     |   ✅  |
@@ -68,9 +69,10 @@ values={[
 
 | Platform                      | Payment | Checkout | Recurring  | Login |
 | ----------------------------- | ------- | -------- |----------- | ----- |
-| [Drupal](drupal.md)           |   ❓   |          |    ❓     |   ❓  |
-| [Magento](magento.md)         |   🔜   |    ❓     |           |   ❓  |
+| [Drupal](drupal.md)           |   ❓   |    🔜    |    ❓     |   ❓  |
+| [Magento](magento.md)         |   🔜   |    ❓    |           |   ❓  |
 | [Optimizely](optimizely.md)   |        |          |            |   ❓  |
+| Prestashop                    |        |    🔜    |           |       |
 | [Shopify](shopify.md)         |        |    🔜    |           |       |
 | [Wix](wix.md)                 |        |     🔜    |           |       |
 | [WooCommerce](woocommerce.md) |   🔜   |    🔜    |    🔜     |   ❓  |
