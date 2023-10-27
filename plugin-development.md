@@ -41,9 +41,9 @@ Also include the following support information:
 |-----------------------|-----------|
 | Support               | Provide information about how to get help with the plugin or module. Link to the plugin's support system. Do not link to Vipps contact page. |
 | Link to Portal  | Inform the merchant that they can manage their sales units on the merchant portal. For example: "You can manage your sales unit (e.g., change name and logo), see reports of all payments, etc. on [portal.vipps.no](https://portal.vipps.no)." |
-| Link to FAQ     | Provide a link to the Vipps FAQs. For example: "For typical questions and answers about payments and APIs, see the [FAQs](https://developer.vippsmobilepay.com/docs/faqs)." |
+| Link to Knowledge base     | Provide a link to the Vipps MobilePay Knowledge base. For example: "For typical questions and answers about payments and APIs, see the [Knowledge base](https://developer.vippsmobilepay.com/docs/common-topics/)." |
 | Info about contributing on GitHub | Add to the *issues* tab on the GitHub repo. |
-| Link to help pages | "[The Vipps help page](https://vipps.no/hjelp/vipps/)" |
+| Link to help pages | "[Vipps help page](https://vipps.no/hjelp/vipps/)"  or the MobilePay help page.|
 | Link to customer center for merchants | "If you need help with your customer relationship with Vipps, [Contact Vipps customer service](https://vipps.no/hjelp/vipps/)." |
 | Link to newsletters       | "Vipps has a [technical newsletter](https://developer.vippsmobilepay.com/docs/newsletters) with news about APIs, etc. We recommend subscribing to it." |
 
