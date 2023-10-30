@@ -28,7 +28,7 @@ Your plugin module must include all the following information:
 | Install plugin    | Description of how to install the module. |
 | Prerequisites     | A list of prerequisites for using the module.|
 | Configuration     | Information about all the configurable features. |
-| Get API keys      | Detailed 1-2-3-type list with reference how to [get API keys](https://developer.vippsmobilepay.com/docs/common-topics/api-keys#getting-the-api-keys). |
+| Get API keys      | Detailed 1-2-3-type list with reference how to [get API keys](https://developer.vippsmobilepay.com/docs/knowledge-base/api-keys#getting-the-api-keys). |
 | Info about on-site-messaging| Specify how to configure in module or add a link to [On-site messaging](https://developer.vippsmobilepay.com/docs/design-guidelines/checkout-on-site-messaging/). |
 | Notification on available updates| If it's not default by platform, show a notification banner when an update is available for the module. |
 | API Dashboard     | Inform that merchants can use the [API Dashboard](https://developer.vippsmobilepay.com/docs/developer-resources/api-dashboard) to follow up on errors.|
@@ -41,7 +41,7 @@ Also include the following support information:
 |-----------------------|-----------|
 | Support               | Provide information about how to get help with the plugin or module. Link to the plugin's support system. Do not link to Vipps contact page. |
 | Link to Portal  | Inform the merchant that they can manage their sales units on the merchant portal. For example: "You can manage your sales unit (e.g., change name and logo), see reports of all payments, etc. on [portal.vipps.no](https://portal.vipps.no)." |
-| Link to Knowledge base     | Provide a link to the Vipps MobilePay Knowledge base. For example: "For typical questions and answers about payments and APIs, see the [Knowledge base](https://developer.vippsmobilepay.com/docs/common-topics/)." |
+| Link to Knowledge base     | Provide a link to the Vipps MobilePay Knowledge base. For example: "For typical questions and answers about payments and APIs, see the [Knowledge base](https://developer.vippsmobilepay.com/docs/knowledge-base/)." |
 | Info about contributing on GitHub | Add to the *issues* tab on the GitHub repo. |
 | Link to help pages | "[Vipps help page](https://vipps.no/hjelp/vipps/)"  or the MobilePay help page.|
 | Link to customer center for merchants | "If you need help with your customer relationship with Vipps, [Contact Vipps customer service](https://vipps.no/hjelp/vipps/)." |
@@ -53,7 +53,7 @@ Include the following details and routines as part of the module.
 
 | Required content    | Comment   |
 |---------------------|-----------|
-| Error Logging   | Include the option to activate debugging mode with enhanced logging and tracking of all Vipps calls and responses. Track and make sure to handle [all errors](https://developer.vippsmobilepay.com/docs/common-topics/errors/). Present the results in a separate page of the module configuration, with the complete Vipps error message displayed.
+| Error Logging   | Include the option to activate debugging mode with enhanced logging and tracking of all Vipps calls and responses. Track and make sure to handle [all errors](https://developer.vippsmobilepay.com/docs/knowledge-base/errors/). Present the results in a separate page of the module configuration, with the complete Vipps error message displayed.
 | Error Handling  | Ensure that users, both administrators and customers, receive an unambiguous notification when anything goes wrong. For POS integration, present the information to both the cashier and the customers.
 | Follow up on GitHub security/Dependabot alerts | Ensure that security alerts are added to pull requests and that there is a monthly routine in place for handling these. |
 | Order Management | Add receipts to orders using the [Order management API](https://developer.vippsmobilepay.com/docs/APIs/order-management-api/vipps-order-management-api/). |
