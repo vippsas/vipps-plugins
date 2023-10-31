@@ -132,9 +132,9 @@ values={[
 
 Relevant links:
 
-* [How Checkout works for WooCommerce](/docs/APIs/checkout-api/vipps-checkout-how-it-works-woocommerce/)
+* [How Checkout works for WooCommerce](/docs/APIs/checkout-api/checkout-how-it-works-woocommerce/)
 * [Express checkout](/docs/APIs/ecom-api/vipps-ecom-api/#express-checkout-payments)
-* [Receipts](/docs/APIs/checkout-api/vipps-checkout-api/#receipts)
+* [Receipts](/docs/APIs/checkout-api/checkout-api-guide/#receipts)
 
 </TabItem>
 
@@ -188,7 +188,7 @@ values={[
 
 Relevant links:
 
-* [Receipts](/docs/APIs/checkout-api/vipps-checkout-api/#receipts)
+* [Receipts](/docs/APIs/checkout-api/checkout-api-guide/#receipts)
 
 </TabItem>
 
@@ -206,8 +206,8 @@ Relevant links:
 
 Relevant links:
 
-* [How Checkout works for WooCommerce](/docs/APIs/checkout-api/vipps-checkout-how-it-works-woocommerce/)
-* [Receipts](/docs/APIs/checkout-api/vipps-checkout-api/#receipts)
+* [How Checkout works for WooCommerce](/docs/APIs/checkout-api/checkout-how-it-works-woocommerce/)
+* [Receipts](/docs/APIs/checkout-api/checkout-api-guide/#receipts)
 
 </TabItem>
 
