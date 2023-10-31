@@ -147,7 +147,7 @@ Relevant links:
 
 Relevant links:
 
-* [Campaign types](/docs/APIs/recurring-api/vipps-recurring-api/#campaigns)
+* [Campaign types](/docs/APIs/recurring-api/recurring-api-guide/#campaigns)
 
 </TabItem>
 <TabItem value="Login">
@@ -224,7 +224,7 @@ Relevant links:
 
 Relevant links:
 
-* [Campaign types](/docs/APIs/recurring-api/vipps-recurring-api/#campaigns)
+* [Campaign types](/docs/APIs/recurring-api/recurring-api-guide/#campaigns)
 
 </TabItem>
 <TabItem value="Login">
