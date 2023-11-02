@@ -116,7 +116,7 @@ values={[
 | [Drupal][drupal]           |       ✅      |                  |           |          |           |
 | [Magento][magento]         |       ✅      |        ✅        |    ✅   |           |           |
 | [Optimizely][episerver]    |       ✅      |        ✅        |          |          |           |
-| [Shopify][shopify]         |       ✅      |         ✅       |          |          |           |
+| [Shopify][shopify]         |       ✅      |                 |          |          |           |
 | [Wix][wix]                 |       ✅      |                  |          |           |           |
 | [WooCommerce][woocommerce] |       ✅      |        ✅        |    ✅   |     ✅   |     ✅   |
 
